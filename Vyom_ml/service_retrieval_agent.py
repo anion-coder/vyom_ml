@@ -14,7 +14,6 @@ app = FastAPI()
 TICKET_API_URL = "https://1998-42-106-207-28.ngrok-free.app/query/process"
 
 # Initialize LLM Model
-# GROQ_API_KEY = "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"  # Replace with actual API Key
 LLM_MODEL = ChatGroq(api_key=settings.GROQ_API_KEY, model="llama-3.1-8b-instant")
 
 # Define banking-related services
