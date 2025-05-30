@@ -1,0 +1,2001 @@
+Priority Score,Department,Sub-Department,Service Request,Service Request Level,Resolution Time (Minutes)
+6,Forex,Foreign Investments & NRI Banking,Cash Currency Exchange,2,3.0
+10,Forex,Foreign Investments & NRI Banking,Savings Account,1,3.0
+10,Forex,Microfinance & Agricultural Loans,SWIFT Transfer,1,58.6
+4,Credit,Currency Exchange,Current Account,1,3.0
+10,Forex,Corporate Loans,Letter of Credit,2,36.2
+3,General Banking,International Transactions,Education Loan,3,3.0
+10,General Banking,Foreign Investments & NRI Banking,Bank Guarantee,2,3.0
+1,Credit,KYC & Documentation,Savings Account,2,3.0
+7,Credit,Banking Tech & Digital Services,SWIFT Transfer,3,47.2
+7,Forex,Foreign Investments & NRI Banking,Credit Limit Increase,3,3.0
+5,Credit,Foreign Investments & NRI Banking,Loan Against Property,2,3.0
+10,Credit,International Transactions,Net Banking Login Issue,2,3.0
+10,Credit,KYC & Documentation,Personal Loan,3,3.0
+4,General Banking,Corporate Loans,Home Loan,1,50.4
+10,Forex,Currency Exchange,NRE/NRO Account Opening,1,20.2
+9,General Banking,Foreign Investments & NRI Banking,SWIFT Transfer,1,3.0
+9,General Banking,Cards & Banking Services,Cash Currency Exchange,3,27.6
+5,General Banking,Foreign Investments & NRI Banking,Lost/Stolen Card,2,98.8
+10,General Banking,Microfinance & Agricultural Loans,Savings Account,3,61.9
+10,General Banking,Accounts & Deposits,Current Account,2,3.0
+7,Credit,Cards & Banking Services,Current Account,1,34.9
+4,General Banking,Mortgage & Secured Loans,Letter of Credit,2,3.0
+10,General Banking,Corporate Loans,Loan Against Property,3,10.4
+9,Forex,International Transactions,Personal Loan,1,26.1
+5,Forex,Mortgage & Secured Loans,Recurring Deposit,3,3.0
+4,Credit,Mortgage & Secured Loans,Foreign Exchange Rates Inquiry,3,7.7
+10,Credit,KYC & Documentation,Reward Points Inquiry,1,3.1
+6,Credit,Transactions & Payments,Net Banking Login Issue,2,3.0
+10,Credit,Mortgage & Secured Loans,Home Loan,1,3.0
+7,Forex,Accounts & Deposits,Home Loan,3,3.0
+10,Credit,Credit Cards,Reward Points Inquiry,3,3.4
+3,General Banking,Accounts & Deposits,Car Loan,1,37.3
+4,General Banking,International Transactions,Fixed Deposit,2,3.0
+10,Forex,Corporate Loans,Education Loan,2,3.0
+4,Credit,Accounts & Deposits,Car Loan,2,3.0
+8,Forex,Microfinance & Agricultural Loans,Foreign Exchange Rates Inquiry,2,3.0
+4,Credit,Retail Loans,Mobile Banking Issue,2,61.4
+7,Forex,Mortgage & Secured Loans,Recurring Deposit,3,3.0
+5,General Banking,Credit Cards,Loan Against Property,2,28.4
+6,General Banking,Corporate Loans,NRE/NRO Account Opening,3,27.7
+10,General Banking,Foreign Investments & NRI Banking,SWIFT Transfer,3,3.0
+9,General Banking,Retail Loans,NRE/NRO Account Opening,1,6.5
+10,Forex,Microfinance & Agricultural Loans,Debit Card Activation,2,12.2
+10,Forex,International Transactions,NEFT/RTGS/IMPS Issue,1,43.6
+10,Forex,Cards & Banking Services,Fixed Deposit,2,4.2
+3,General Banking,Corporate Loans,NEFT/RTGS/IMPS Issue,2,56.7
+6,General Banking,Mortgage & Secured Loans,Foreign Exchange Rates Inquiry,2,3.0
+3,Forex,KYC & Documentation,Mobile Banking Issue,2,8.8
+3,General Banking,Accounts & Deposits,Recurring Deposit,1,3.0
+10,General Banking,Microfinance & Agricultural Loans,Education Loan,3,3.0
+6,Forex,Transactions & Payments,Personal Loan,3,3.0
+5,Forex,Retail Loans,Working Capital Loan,2,19.8
+10,Credit,KYC & Documentation,Bank Guarantee,3,3.0
+10,General Banking,Microfinance & Agricultural Loans,Letter of Credit,1,13.5
+4,General Banking,Transactions & Payments,Credit Limit Increase,2,3.0
+9,Credit,Currency Exchange,SWIFT Transfer,3,3.0
+8,Credit,Retail Loans,Loan Against Property,3,3.0
+10,Forex,Credit Cards,Savings Account,3,3.0
+10,Forex,Foreign Investments & NRI Banking,Education Loan,2,31.5
+9,General Banking,Credit Cards,Cash Currency Exchange,1,168.0
+6,Credit,Accounts & Deposits,Savings Account,3,7.3
+7,General Banking,Corporate Loans,Car Loan,2,13.6
+8,General Banking,Credit Cards,Fixed Deposit,2,3.0
+10,Credit,Currency Exchange,Cash Currency Exchange,1,44.1
+9,Credit,Banking Tech & Digital Services,NRE/NRO Account Opening,1,16.4
+9,Credit,Corporate Loans,Net Banking Login Issue,1,3.0
+3,General Banking,Currency Exchange,Bank Guarantee,3,51.8
+4,Credit,Currency Exchange,Cash Currency Exchange,2,3.0
+10,Credit,Trade Finance,Current Account,3,3.0
+8,Forex,International Transactions,Education Loan,1,3.0
+10,General Banking,Corporate Loans,Debit Card Activation,3,44.7
+5,Credit,KYC & Documentation,Letter of Credit,2,3.0
+10,General Banking,KYC & Documentation,Mobile Banking Issue,1,46.8
+8,Forex,Currency Exchange,Personal Loan,2,103.3
+8,Credit,Banking Tech & Digital Services,Debit Card Activation,3,6.8
+3,Forex,Banking Tech & Digital Services,Net Banking Login Issue,3,3.0
+10,Credit,International Transactions,Personal Loan,1,40.4
+10,Forex,Banking Tech & Digital Services,Loan Against Property,1,15.7
+10,Forex,Banking Tech & Digital Services,Recurring Deposit,2,3.0
+6,Forex,Credit Cards,Credit Limit Increase,2,16.3
+10,Forex,KYC & Documentation,Reward Points Inquiry,2,25.1
+5,Credit,Currency Exchange,Debit Card Activation,3,42.3
+1,General Banking,Banking Tech & Digital Services,Lost/Stolen Card,1,3.0
+10,Forex,Retail Loans,Savings Account,1,110.0
+7,Credit,International Transactions,Lost/Stolen Card,2,31.9
+7,General Banking,Trade Finance,Current Account,1,35.0
+9,General Banking,Cards & Banking Services,Current Account,3,81.8
+4,General Banking,Credit Cards,Net Banking Login Issue,1,3.0
+9,Credit,Cards & Banking Services,Education Loan,2,13.0
+6,General Banking,Foreign Investments & NRI Banking,Lost/Stolen Card,1,29.1
+5,General Banking,Trade Finance,Letter of Credit,1,3.0
+8,Forex,Cards & Banking Services,Loan Against Property,2,18.4
+10,Forex,Trade Finance,Foreign Exchange Rates Inquiry,2,3.0
+10,Credit,Corporate Loans,SWIFT Transfer,2,3.0
+10,Forex,Banking Tech & Digital Services,NRE/NRO Account Opening,2,3.0
+9,Forex,Retail Loans,Cash Currency Exchange,3,21.3
+6,Forex,Banking Tech & Digital Services,Savings Account,2,37.1
+10,Credit,Retail Loans,NEFT/RTGS/IMPS Issue,1,33.8
+10,Forex,Currency Exchange,Recurring Deposit,3,3.0
+3,Forex,Trade Finance,Mobile Banking Issue,1,26.9
+6,General Banking,Transactions & Payments,Home Loan,1,27.7
+10,Forex,Mortgage & Secured Loans,Home Loan,1,3.0
+10,Forex,International Transactions,Home Loan,2,3.0
+4,Forex,Foreign Investments & NRI Banking,Personal Loan,1,22.1
+7,Credit,Cards & Banking Services,Savings Account,2,40.4
+10,General Banking,Trade Finance,Fixed Deposit,1,28.3
+10,Credit,Mortgage & Secured Loans,Repatriation of Funds,1,3.0
+5,Credit,Cards & Banking Services,Credit Limit Increase,3,84.2
+10,Forex,Retail Loans,Repatriation of Funds,2,24.0
+9,General Banking,Credit Cards,Debit Card Activation,2,9.9
+10,Credit,Microfinance & Agricultural Loans,Net Banking Login Issue,1,26.1
+7,Forex,Foreign Investments & NRI Banking,Letter of Credit,2,29.5
+3,General Banking,Trade Finance,Savings Account,2,4.7
+7,Credit,Mortgage & Secured Loans,Current Account,2,54.8
+9,Credit,International Transactions,Fixed Deposit,3,24.6
+10,Credit,Foreign Investments & NRI Banking,Recurring Deposit,2,23.2
+7,General Banking,Trade Finance,Letter of Credit,3,19.5
+10,Forex,Corporate Loans,Bank Guarantee,3,5.1
+5,General Banking,Trade Finance,Fixed Deposit,2,63.6
+3,Credit,Credit Cards,Working Capital Loan,3,31.2
+6,General Banking,International Transactions,Reward Points Inquiry,1,29.7
+6,Credit,International Transactions,Loan Against Property,3,3.0
+10,General Banking,Mortgage & Secured Loans,Current Account,1,31.8
+4,Credit,KYC & Documentation,Foreign Exchange Rates Inquiry,1,3.0
+5,General Banking,Retail Loans,Personal Loan,1,3.0
+8,Credit,Banking Tech & Digital Services,Savings Account,2,3.0
+10,Forex,Credit Cards,Home Loan,3,37.3
+10,Credit,Accounts & Deposits,Working Capital Loan,2,32.8
+10,Forex,Cards & Banking Services,Fixed Deposit,1,46.1
+5,Forex,Cards & Banking Services,Recurring Deposit,3,3.0
+10,General Banking,Cards & Banking Services,Lost/Stolen Card,2,9.5
+10,General Banking,Cards & Banking Services,Cash Currency Exchange,3,3.0
+7,General Banking,Accounts & Deposits,Bank Guarantee,1,35.3
+9,Credit,Credit Cards,NRE/NRO Account Opening,3,3.0
+9,Credit,Cards & Banking Services,Reward Points Inquiry,3,32.0
+8,Credit,KYC & Documentation,Loan Against Property,1,34.8
+10,General Banking,International Transactions,Foreign Exchange Rates Inquiry,3,6.6
+4,General Banking,Trade Finance,Mobile Banking Issue,2,3.0
+3,Forex,International Transactions,Foreign Exchange Rates Inquiry,2,3.0
+3,Forex,KYC & Documentation,Mobile Banking Issue,2,5.0
+6,Forex,Mortgage & Secured Loans,SWIFT Transfer,2,39.0
+10,Credit,Corporate Loans,Education Loan,3,3.0
+10,Credit,Banking Tech & Digital Services,Car Loan,3,3.0
+6,Credit,Retail Loans,Home Loan,1,4.7
+10,General Banking,Retail Loans,Fixed Deposit,1,29.1
+10,Credit,Transactions & Payments,Cash Currency Exchange,3,3.0
+7,General Banking,Cards & Banking Services,Credit Limit Increase,3,3.0
+2,General Banking,Mortgage & Secured Loans,Car Loan,2,30.8
+7,General Banking,International Transactions,Personal Loan,2,11.6
+8,General Banking,Corporate Loans,Education Loan,2,38.9
+10,Forex,KYC & Documentation,Current Account,2,3.0
+10,General Banking,Transactions & Payments,Debit Card Activation,1,23.9
+10,General Banking,International Transactions,Cash Currency Exchange,1,26.3
+10,Credit,Transactions & Payments,Education Loan,3,9.3
+7,General Banking,Corporate Loans,SWIFT Transfer,1,3.0
+9,Credit,Currency Exchange,Education Loan,2,3.0
+10,Credit,Cards & Banking Services,Home Loan,1,8.7
+9,Forex,Retail Loans,Current Account,2,3.0
+10,Credit,Retail Loans,Education Loan,1,22.8
+5,Credit,KYC & Documentation,Mobile Banking Issue,3,3.0
+6,Credit,Corporate Loans,Savings Account,2,39.7
+5,Credit,Cards & Banking Services,Car Loan,3,3.0
+4,Forex,International Transactions,Personal Loan,1,3.0
+10,General Banking,Retail Loans,Debit Card Activation,1,67.6
+9,General Banking,Trade Finance,Debit Card Activation,2,77.3
+6,Credit,Accounts & Deposits,Net Banking Login Issue,2,3.0
+6,Forex,Transactions & Payments,Credit Limit Increase,2,3.0
+5,Forex,Transactions & Payments,Personal Loan,2,3.0
+10,General Banking,Cards & Banking Services,Car Loan,2,37.3
+10,Forex,International Transactions,Reward Points Inquiry,3,21.3
+10,Credit,Cards & Banking Services,NEFT/RTGS/IMPS Issue,1,3.0
+8,Credit,International Transactions,Cash Currency Exchange,2,3.0
+8,Credit,Transactions & Payments,NRE/NRO Account Opening,2,34.6
+10,General Banking,Mortgage & Secured Loans,Working Capital Loan,1,3.0
+5,Credit,Corporate Loans,Mobile Banking Issue,1,32.6
+10,Credit,Microfinance & Agricultural Loans,Current Account,1,53.7
+1,Forex,Corporate Loans,Letter of Credit,2,3.0
+8,Forex,KYC & Documentation,Savings Account,1,45.6
+10,Credit,Transactions & Payments,Working Capital Loan,3,3.0
+5,Forex,Currency Exchange,Credit Limit Increase,3,6.4
+10,General Banking,Cards & Banking Services,Credit Limit Increase,1,15.1
+10,Forex,International Transactions,Current Account,1,52.8
+4,General Banking,International Transactions,SWIFT Transfer,2,8.4
+10,General Banking,Retail Loans,Loan Against Property,3,3.0
+10,Credit,Credit Cards,Home Loan,3,51.2
+6,Forex,Mortgage & Secured Loans,Repatriation of Funds,2,3.0
+10,Credit,Retail Loans,Fixed Deposit,3,3.0
+3,Credit,Accounts & Deposits,Cash Currency Exchange,2,3.0
+8,General Banking,International Transactions,Debit Card Activation,2,4.4
+7,Credit,International Transactions,Lost/Stolen Card,2,3.0
+8,Credit,Credit Cards,Lost/Stolen Card,1,3.0
+6,General Banking,Mortgage & Secured Loans,Working Capital Loan,1,36.8
+9,Forex,Currency Exchange,Home Loan,2,3.0
+8,General Banking,Microfinance & Agricultural Loans,Net Banking Login Issue,1,53.8
+10,Credit,Microfinance & Agricultural Loans,NRE/NRO Account Opening,1,3.0
+10,Credit,Microfinance & Agricultural Loans,Letter of Credit,3,26.4
+1,Forex,Microfinance & Agricultural Loans,Letter of Credit,1,3.0
+10,Forex,Cards & Banking Services,SWIFT Transfer,1,53.1
+1,Forex,Banking Tech & Digital Services,Net Banking Login Issue,2,3.0
+10,Credit,International Transactions,Lost/Stolen Card,2,3.0
+10,General Banking,Mortgage & Secured Loans,Reward Points Inquiry,2,33.9
+6,Forex,International Transactions,NRE/NRO Account Opening,1,37.3
+10,Forex,Transactions & Payments,Mobile Banking Issue,3,22.6
+10,General Banking,Microfinance & Agricultural Loans,Loan Against Property,3,25.9
+10,Forex,Trade Finance,NRE/NRO Account Opening,1,10.2
+10,General Banking,Microfinance & Agricultural Loans,Car Loan,1,3.0
+10,Forex,Corporate Loans,Bank Guarantee,3,33.1
+7,General Banking,Banking Tech & Digital Services,SWIFT Transfer,2,100.7
+6,General Banking,Credit Cards,Car Loan,2,13.5
+5,General Banking,Mortgage & Secured Loans,Foreign Exchange Rates Inquiry,1,5.8
+10,General Banking,Currency Exchange,Home Loan,3,8.6
+7,Credit,Currency Exchange,Letter of Credit,2,3.0
+7,Credit,Corporate Loans,Letter of Credit,1,3.0
+10,Forex,Cards & Banking Services,Car Loan,3,17.2
+7,Forex,Retail Loans,SWIFT Transfer,2,25.6
+6,General Banking,Currency Exchange,Mobile Banking Issue,3,31.6
+10,Credit,Accounts & Deposits,NRE/NRO Account Opening,3,12.4
+10,Credit,Cards & Banking Services,Fixed Deposit,2,44.6
+10,Forex,Mortgage & Secured Loans,Net Banking Login Issue,3,3.0
+5,General Banking,Accounts & Deposits,Car Loan,2,3.0
+10,General Banking,Banking Tech & Digital Services,Debit Card Activation,1,97.9
+10,Forex,Credit Cards,Letter of Credit,1,130.6
+4,General Banking,Banking Tech & Digital Services,Foreign Exchange Rates Inquiry,1,35.8
+1,General Banking,Accounts & Deposits,Cash Currency Exchange,2,3.0
+7,General Banking,Microfinance & Agricultural Loans,Bank Guarantee,1,45.0
+6,Forex,Cards & Banking Services,Working Capital Loan,3,10.1
+6,Forex,Banking Tech & Digital Services,Reward Points Inquiry,2,20.3
+5,General Banking,Mortgage & Secured Loans,Loan Against Property,2,3.0
+9,General Banking,Microfinance & Agricultural Loans,Net Banking Login Issue,2,39.1
+8,Credit,Foreign Investments & NRI Banking,Home Loan,3,3.0
+8,Forex,Currency Exchange,Letter of Credit,1,62.5
+7,Forex,Corporate Loans,Debit Card Activation,2,26.4
+10,Credit,Banking Tech & Digital Services,Fixed Deposit,2,15.4
+3,General Banking,Credit Cards,Cash Currency Exchange,1,143.7
+7,General Banking,Mortgage & Secured Loans,Car Loan,1,12.3
+10,General Banking,Credit Cards,Net Banking Login Issue,2,3.0
+8,Forex,Corporate Loans,Current Account,1,30.8
+3,Forex,Microfinance & Agricultural Loans,Letter of Credit,1,88.0
+10,Forex,Corporate Loans,Bank Guarantee,2,60.5
+6,Forex,Cards & Banking Services,Letter of Credit,1,3.0
+10,General Banking,Microfinance & Agricultural Loans,Car Loan,3,7.6
+9,Forex,Microfinance & Agricultural Loans,NEFT/RTGS/IMPS Issue,1,8.3
+5,General Banking,Trade Finance,Car Loan,2,26.7
+4,Credit,Corporate Loans,Reward Points Inquiry,3,3.0
+9,General Banking,Trade Finance,Personal Loan,2,3.0
+3,Credit,Trade Finance,Debit Card Activation,2,68.5
+10,Credit,Currency Exchange,Cash Currency Exchange,1,47.9
+10,Credit,International Transactions,Fixed Deposit,2,14.2
+4,Forex,Banking Tech & Digital Services,SWIFT Transfer,1,5.2
+10,General Banking,Currency Exchange,Current Account,1,46.1
+7,Credit,KYC & Documentation,Net Banking Login Issue,1,44.5
+2,Forex,Accounts & Deposits,NEFT/RTGS/IMPS Issue,2,31.6
+3,Forex,Foreign Investments & NRI Banking,Working Capital Loan,3,37.5
+5,General Banking,Mortgage & Secured Loans,Home Loan,2,3.0
+7,Forex,Foreign Investments & NRI Banking,Working Capital Loan,2,24.8
+10,Forex,Currency Exchange,Foreign Exchange Rates Inquiry,1,8.9
+10,General Banking,Currency Exchange,Foreign Exchange Rates Inquiry,1,3.0
+10,Credit,Accounts & Deposits,Reward Points Inquiry,3,21.4
+3,General Banking,Retail Loans,Recurring Deposit,3,10.2
+8,Forex,Accounts & Deposits,SWIFT Transfer,2,3.0
+10,General Banking,Foreign Investments & NRI Banking,Debit Card Activation,2,3.0
+10,General Banking,Mortgage & Secured Loans,Letter of Credit,1,3.0
+8,General Banking,Transactions & Payments,Mobile Banking Issue,2,3.0
+8,Forex,Retail Loans,Debit Card Activation,2,23.2
+5,Credit,International Transactions,NEFT/RTGS/IMPS Issue,1,3.0
+10,Forex,KYC & Documentation,Net Banking Login Issue,2,7.5
+7,Forex,Microfinance & Agricultural Loans,Home Loan,3,41.4
+2,Forex,Currency Exchange,Home Loan,3,3.0
+9,Forex,Corporate Loans,NRE/NRO Account Opening,3,3.0
+10,General Banking,Mortgage & Secured Loans,Home Loan,3,3.0
+9,Credit,Microfinance & Agricultural Loans,Personal Loan,2,22.7
+4,Credit,Retail Loans,Loan Against Property,2,3.0
+10,Credit,Credit Cards,SWIFT Transfer,1,11.1
+9,Credit,Transactions & Payments,Recurring Deposit,2,3.0
+8,General Banking,Corporate Loans,SWIFT Transfer,2,8.2
+8,General Banking,Microfinance & Agricultural Loans,Savings Account,2,5.7
+10,General Banking,KYC & Documentation,Fixed Deposit,1,20.8
+7,Forex,KYC & Documentation,Fixed Deposit,1,34.3
+7,Forex,International Transactions,Fixed Deposit,3,3.0
+10,Forex,International Transactions,Car Loan,2,3.0
+10,Credit,Currency Exchange,NRE/NRO Account Opening,2,3.0
+10,Forex,Microfinance & Agricultural Loans,Savings Account,3,3.0
+10,Credit,Trade Finance,Reward Points Inquiry,1,14.9
+9,Forex,Transactions & Payments,NRE/NRO Account Opening,1,53.2
+4,Forex,Corporate Loans,Recurring Deposit,2,3.0
+9,Credit,Banking Tech & Digital Services,Cash Currency Exchange,3,55.7
+9,General Banking,Transactions & Payments,Debit Card Activation,1,3.0
+7,Credit,Accounts & Deposits,Lost/Stolen Card,2,24.1
+8,Forex,Cards & Banking Services,NRE/NRO Account Opening,1,3.0
+8,Forex,Mortgage & Secured Loans,Savings Account,2,3.0
+10,Credit,Currency Exchange,Debit Card Activation,1,3.0
+8,General Banking,KYC & Documentation,Home Loan,3,3.0
+2,Credit,Accounts & Deposits,Fixed Deposit,3,3.0
+10,Forex,Cards & Banking Services,Fixed Deposit,2,19.8
+8,General Banking,Mortgage & Secured Loans,Net Banking Login Issue,1,3.0
+10,Forex,International Transactions,Debit Card Activation,1,3.0
+7,Credit,Cards & Banking Services,Recurring Deposit,2,152.2
+10,Credit,Credit Cards,Recurring Deposit,2,3.0
+10,Forex,Corporate Loans,Net Banking Login Issue,1,165.4
+3,Forex,Transactions & Payments,Foreign Exchange Rates Inquiry,2,3.0
+7,General Banking,Banking Tech & Digital Services,Credit Limit Increase,2,3.0
+7,Forex,Retail Loans,Savings Account,2,27.8
+4,General Banking,KYC & Documentation,NRE/NRO Account Opening,3,3.0
+10,Forex,International Transactions,Savings Account,3,3.0
+10,General Banking,Credit Cards,Current Account,3,37.8
+10,Credit,Retail Loans,Credit Limit Increase,3,43.0
+8,Forex,Accounts & Deposits,Education Loan,1,21.7
+10,General Banking,International Transactions,Current Account,2,3.0
+7,Credit,KYC & Documentation,Reward Points Inquiry,3,53.6
+7,Credit,Banking Tech & Digital Services,Cash Currency Exchange,3,7.1
+8,Credit,Transactions & Payments,Education Loan,2,76.7
+10,Forex,Credit Cards,NRE/NRO Account Opening,1,36.7
+7,Credit,Retail Loans,Personal Loan,2,3.0
+9,General Banking,KYC & Documentation,Mobile Banking Issue,1,42.9
+9,General Banking,Accounts & Deposits,Credit Limit Increase,1,33.1
+10,Forex,International Transactions,Net Banking Login Issue,3,3.0
+10,General Banking,Currency Exchange,Lost/Stolen Card,3,17.3
+9,General Banking,Retail Loans,Personal Loan,3,8.2
+7,Credit,Accounts & Deposits,Home Loan,2,3.0
+8,Credit,Banking Tech & Digital Services,Savings Account,3,30.3
+10,Forex,Banking Tech & Digital Services,Education Loan,1,11.2
+10,Credit,Transactions & Payments,Credit Limit Increase,2,3.0
+10,Forex,Accounts & Deposits,Fixed Deposit,2,13.4
+9,Forex,Microfinance & Agricultural Loans,NRE/NRO Account Opening,3,8.9
+10,General Banking,Corporate Loans,Fixed Deposit,3,3.0
+1,Forex,Banking Tech & Digital Services,Home Loan,2,3.0
+5,Credit,Corporate Loans,Recurring Deposit,2,14.2
+5,General Banking,Banking Tech & Digital Services,Letter of Credit,3,3.0
+4,Credit,Currency Exchange,Reward Points Inquiry,1,3.0
+7,General Banking,International Transactions,Lost/Stolen Card,1,3.0
+8,Credit,Transactions & Payments,NRE/NRO Account Opening,1,3.0
+10,Credit,Credit Cards,Reward Points Inquiry,2,112.4
+10,Credit,Microfinance & Agricultural Loans,Foreign Exchange Rates Inquiry,3,74.9
+10,Credit,Microfinance & Agricultural Loans,SWIFT Transfer,3,46.8
+10,General Banking,Credit Cards,Fixed Deposit,3,3.0
+9,General Banking,Accounts & Deposits,Education Loan,2,50.8
+10,General Banking,International Transactions,Savings Account,2,8.8
+9,General Banking,Currency Exchange,Education Loan,1,3.0
+10,Forex,Transactions & Payments,Loan Against Property,3,3.0
+7,Forex,KYC & Documentation,Debit Card Activation,2,29.2
+10,General Banking,Accounts & Deposits,Personal Loan,1,3.0
+1,General Banking,Transactions & Payments,Recurring Deposit,2,3.0
+9,Credit,Microfinance & Agricultural Loans,Lost/Stolen Card,3,3.0
+10,Forex,Foreign Investments & NRI Banking,Bank Guarantee,1,21.0
+4,Credit,Mortgage & Secured Loans,Recurring Deposit,1,34.3
+8,Forex,Mortgage & Secured Loans,Savings Account,2,3.0
+4,Forex,Trade Finance,Personal Loan,3,36.1
+9,Credit,Credit Cards,Car Loan,2,3.0
+9,Credit,Accounts & Deposits,Home Loan,2,3.0
+9,Credit,Retail Loans,Repatriation of Funds,1,3.0
+7,Credit,Banking Tech & Digital Services,Debit Card Activation,3,3.0
+9,Credit,Corporate Loans,Current Account,2,4.1
+9,General Banking,Retail Loans,NEFT/RTGS/IMPS Issue,3,54.5
+9,Credit,Banking Tech & Digital Services,Current Account,1,28.2
+8,Forex,Credit Cards,Car Loan,2,3.0
+3,General Banking,Cards & Banking Services,Education Loan,1,57.4
+10,Credit,Banking Tech & Digital Services,Personal Loan,3,43.7
+10,Forex,Microfinance & Agricultural Loans,Letter of Credit,1,56.4
+8,General Banking,International Transactions,Reward Points Inquiry,3,43.0
+8,General Banking,Transactions & Payments,Credit Limit Increase,2,3.0
+8,Credit,International Transactions,Debit Card Activation,3,15.2
+8,General Banking,Microfinance & Agricultural Loans,Foreign Exchange Rates Inquiry,1,37.7
+7,General Banking,Banking Tech & Digital Services,Savings Account,2,26.6
+6,Credit,Credit Cards,Net Banking Login Issue,1,52.3
+10,Forex,Cards & Banking Services,Fixed Deposit,2,16.8
+9,Forex,Microfinance & Agricultural Loans,Personal Loan,3,46.3
+10,Credit,Currency Exchange,Credit Limit Increase,1,3.0
+7,General Banking,Retail Loans,Car Loan,3,3.7
+5,Credit,Corporate Loans,Current Account,2,24.8
+10,General Banking,Trade Finance,Fixed Deposit,3,21.0
+3,Forex,International Transactions,Recurring Deposit,2,5.9
+10,Forex,Microfinance & Agricultural Loans,Cash Currency Exchange,3,45.9
+4,Forex,Cards & Banking Services,Current Account,2,3.0
+10,Credit,Banking Tech & Digital Services,Cash Currency Exchange,3,3.0
+10,Forex,Banking Tech & Digital Services,Savings Account,3,3.0
+7,Forex,Mortgage & Secured Loans,Reward Points Inquiry,3,3.0
+3,Forex,Microfinance & Agricultural Loans,SWIFT Transfer,3,3.0
+7,Credit,Retail Loans,Car Loan,3,26.9
+10,General Banking,Transactions & Payments,Loan Against Property,2,17.9
+10,Credit,Foreign Investments & NRI Banking,NEFT/RTGS/IMPS Issue,3,3.0
+10,General Banking,Credit Cards,Credit Limit Increase,2,26.2
+10,Forex,Currency Exchange,SWIFT Transfer,3,16.9
+10,Credit,Banking Tech & Digital Services,Personal Loan,3,3.0
+2,Forex,Mortgage & Secured Loans,Car Loan,2,12.6
+10,General Banking,Currency Exchange,SWIFT Transfer,2,51.4
+7,Forex,Trade Finance,Car Loan,3,3.0
+10,Credit,Cards & Banking Services,Fixed Deposit,2,3.0
+3,Credit,Cards & Banking Services,Current Account,3,3.0
+8,Forex,Mortgage & Secured Loans,Credit Limit Increase,1,3.0
+10,Forex,Microfinance & Agricultural Loans,Recurring Deposit,3,29.8
+8,Forex,Transactions & Payments,Debit Card Activation,2,25.9
+10,General Banking,Credit Cards,Letter of Credit,1,19.6
+10,General Banking,Accounts & Deposits,Mobile Banking Issue,2,49.3
+8,Forex,Microfinance & Agricultural Loans,NRE/NRO Account Opening,2,37.4
+10,Forex,Cards & Banking Services,Bank Guarantee,3,38.1
+10,General Banking,Banking Tech & Digital Services,Savings Account,1,53.1
+3,Forex,Retail Loans,Car Loan,2,37.3
+10,Credit,Foreign Investments & NRI Banking,Letter of Credit,2,51.3
+9,Credit,Trade Finance,Current Account,1,26.3
+10,General Banking,International Transactions,Lost/Stolen Card,3,16.2
+5,General Banking,Transactions & Payments,Current Account,2,15.8
+8,Credit,Banking Tech & Digital Services,Bank Guarantee,2,22.9
+7,Credit,Accounts & Deposits,Car Loan,3,34.8
+10,General Banking,Currency Exchange,Repatriation of Funds,2,3.0
+10,Forex,Credit Cards,Working Capital Loan,1,43.8
+10,General Banking,Banking Tech & Digital Services,Recurring Deposit,3,3.0
+1,General Banking,Foreign Investments & NRI Banking,Current Account,2,39.0
+7,Forex,Mortgage & Secured Loans,Education Loan,2,96.2
+5,General Banking,Credit Cards,Cash Currency Exchange,2,50.6
+9,General Banking,Accounts & Deposits,Savings Account,3,100.3
+10,General Banking,Credit Cards,Personal Loan,2,3.0
+10,Forex,Credit Cards,Fixed Deposit,3,3.0
+7,Forex,KYC & Documentation,Recurring Deposit,1,6.2
+10,Forex,Accounts & Deposits,Savings Account,3,3.0
+10,General Banking,Retail Loans,Bank Guarantee,2,3.0
+9,General Banking,Microfinance & Agricultural Loans,Reward Points Inquiry,1,56.1
+6,Credit,Retail Loans,Bank Guarantee,3,17.1
+4,Credit,Banking Tech & Digital Services,Lost/Stolen Card,1,3.0
+2,Credit,Retail Loans,Lost/Stolen Card,2,3.0
+10,Forex,Cards & Banking Services,Foreign Exchange Rates Inquiry,2,3.0
+10,Forex,Banking Tech & Digital Services,Loan Against Property,3,3.0
+6,Forex,KYC & Documentation,Car Loan,2,65.9
+10,Credit,Retail Loans,Education Loan,3,13.5
+6,Credit,Mortgage & Secured Loans,Mobile Banking Issue,1,3.0
+3,Credit,Currency Exchange,Personal Loan,1,20.9
+10,General Banking,Microfinance & Agricultural Loans,NEFT/RTGS/IMPS Issue,2,3.0
+10,Forex,Currency Exchange,Loan Against Property,3,9.5
+7,General Banking,Cards & Banking Services,Car Loan,3,119.1
+6,General Banking,Trade Finance,NEFT/RTGS/IMPS Issue,2,8.4
+9,Credit,Banking Tech & Digital Services,Current Account,1,71.0
+10,Credit,Retail Loans,Cash Currency Exchange,3,3.0
+6,Credit,Cards & Banking Services,Cash Currency Exchange,1,3.0
+10,Credit,Trade Finance,Mobile Banking Issue,1,49.2
+10,Forex,Retail Loans,Reward Points Inquiry,1,64.0
+10,General Banking,Corporate Loans,Home Loan,2,13.3
+7,Credit,Banking Tech & Digital Services,SWIFT Transfer,1,10.5
+10,Credit,Foreign Investments & NRI Banking,Bank Guarantee,2,31.1
+10,Credit,Trade Finance,Current Account,2,31.0
+7,Credit,Transactions & Payments,Working Capital Loan,2,3.0
+8,Forex,Banking Tech & Digital Services,Savings Account,2,3.0
+9,General Banking,Foreign Investments & NRI Banking,Reward Points Inquiry,3,53.6
+10,Forex,KYC & Documentation,Home Loan,2,3.0
+10,General Banking,Currency Exchange,Recurring Deposit,2,3.0
+8,General Banking,Microfinance & Agricultural Loans,Credit Limit Increase,1,3.0
+9,Forex,Cards & Banking Services,Foreign Exchange Rates Inquiry,3,35.6
+10,Credit,Banking Tech & Digital Services,Bank Guarantee,1,3.0
+4,Credit,Retail Loans,Foreign Exchange Rates Inquiry,2,6.2
+10,General Banking,International Transactions,Fixed Deposit,3,3.0
+10,General Banking,Currency Exchange,SWIFT Transfer,3,14.2
+10,Credit,Trade Finance,Cash Currency Exchange,2,16.9
+6,General Banking,Banking Tech & Digital Services,NEFT/RTGS/IMPS Issue,1,3.0
+5,Credit,KYC & Documentation,Car Loan,2,3.0
+7,Forex,International Transactions,Repatriation of Funds,1,19.1
+10,Credit,International Transactions,NRE/NRO Account Opening,2,3.0
+10,General Banking,Credit Cards,Debit Card Activation,3,51.2
+4,Credit,Corporate Loans,SWIFT Transfer,3,3.0
+10,Credit,International Transactions,Bank Guarantee,1,7.4
+5,Credit,Banking Tech & Digital Services,Net Banking Login Issue,1,8.4
+2,Credit,Banking Tech & Digital Services,Education Loan,1,33.3
+10,Credit,Trade Finance,Mobile Banking Issue,2,3.0
+7,Forex,Foreign Investments & NRI Banking,Personal Loan,1,14.3
+2,Credit,Microfinance & Agricultural Loans,Education Loan,1,51.9
+10,Forex,Corporate Loans,Personal Loan,2,3.0
+10,Credit,Currency Exchange,Education Loan,2,4.6
+10,Credit,International Transactions,Lost/Stolen Card,1,3.0
+10,Credit,Corporate Loans,Working Capital Loan,1,3.0
+10,Forex,Trade Finance,Education Loan,2,13.4
+6,Credit,Transactions & Payments,Loan Against Property,1,3.0
+7,Credit,Corporate Loans,Net Banking Login Issue,2,3.0
+10,Forex,Microfinance & Agricultural Loans,Letter of Credit,2,3.0
+10,Forex,Accounts & Deposits,Repatriation of Funds,3,3.0
+10,General Banking,Currency Exchange,Home Loan,1,60.0
+6,General Banking,Foreign Investments & NRI Banking,Fixed Deposit,1,3.0
+7,Credit,Foreign Investments & NRI Banking,Repatriation of Funds,2,52.0
+10,Credit,Foreign Investments & NRI Banking,Personal Loan,1,15.3
+4,General Banking,Microfinance & Agricultural Loans,Loan Against Property,3,3.0
+5,Credit,Accounts & Deposits,Car Loan,1,12.1
+8,General Banking,Microfinance & Agricultural Loans,Car Loan,1,3.0
+6,Forex,Cards & Banking Services,SWIFT Transfer,1,35.0
+9,Forex,Retail Loans,Loan Against Property,2,47.4
+5,Forex,Cards & Banking Services,Loan Against Property,2,3.0
+9,Credit,Credit Cards,Bank Guarantee,2,3.0
+8,Credit,International Transactions,Repatriation of Funds,1,3.6
+2,Forex,Microfinance & Agricultural Loans,Mobile Banking Issue,1,35.8
+4,Credit,Trade Finance,Cash Currency Exchange,3,23.3
+10,General Banking,Cards & Banking Services,Loan Against Property,1,19.3
+10,Credit,Mortgage & Secured Loans,Debit Card Activation,3,6.2
+10,Forex,Cards & Banking Services,Cash Currency Exchange,2,59.9
+10,Forex,Cards & Banking Services,Foreign Exchange Rates Inquiry,2,31.8
+6,Credit,Transactions & Payments,Bank Guarantee,1,4.6
+7,General Banking,Microfinance & Agricultural Loans,Personal Loan,1,41.8
+10,General Banking,Currency Exchange,Fixed Deposit,1,20.2
+9,Forex,Accounts & Deposits,SWIFT Transfer,1,3.0
+10,Credit,KYC & Documentation,Reward Points Inquiry,2,3.0
+1,General Banking,Foreign Investments & NRI Banking,NRE/NRO Account Opening,1,33.7
+4,Credit,KYC & Documentation,Cash Currency Exchange,2,3.0
+8,Forex,Corporate Loans,Mobile Banking Issue,2,3.0
+10,Credit,Cards & Banking Services,Cash Currency Exchange,2,26.9
+8,Forex,Banking Tech & Digital Services,Car Loan,3,3.0
+9,General Banking,Retail Loans,Lost/Stolen Card,2,16.5
+10,General Banking,KYC & Documentation,Home Loan,1,3.0
+9,Credit,Trade Finance,Current Account,3,3.0
+6,General Banking,Transactions & Payments,Working Capital Loan,3,3.0
+10,Forex,KYC & Documentation,Car Loan,3,32.2
+4,General Banking,Corporate Loans,Letter of Credit,2,3.0
+1,Forex,Cards & Banking Services,Foreign Exchange Rates Inquiry,1,16.0
+2,Forex,Corporate Loans,Recurring Deposit,1,70.6
+10,Credit,Corporate Loans,Bank Guarantee,2,3.0
+5,Forex,Foreign Investments & NRI Banking,SWIFT Transfer,3,3.0
+9,Credit,Trade Finance,Reward Points Inquiry,2,3.0
+9,Credit,Credit Cards,Debit Card Activation,1,9.6
+7,General Banking,Banking Tech & Digital Services,Education Loan,1,17.1
+2,Forex,Retail Loans,Savings Account,1,3.0
+10,General Banking,Retail Loans,Savings Account,2,6.5
+2,Forex,Accounts & Deposits,Car Loan,1,10.4
+10,Credit,Banking Tech & Digital Services,Bank Guarantee,3,20.3
+4,General Banking,Foreign Investments & NRI Banking,Working Capital Loan,1,3.0
+10,Forex,Currency Exchange,Letter of Credit,1,5.6
+7,Credit,Microfinance & Agricultural Loans,Letter of Credit,2,63.9
+10,Forex,Trade Finance,Foreign Exchange Rates Inquiry,2,8.2
+10,General Banking,KYC & Documentation,Education Loan,2,47.6
+9,General Banking,Banking Tech & Digital Services,Credit Limit Increase,1,3.0
+6,Forex,Banking Tech & Digital Services,Current Account,2,4.5
+10,General Banking,Retail Loans,Debit Card Activation,1,39.4
+6,General Banking,Credit Cards,Loan Against Property,2,3.0
+8,Credit,Credit Cards,Fixed Deposit,1,3.0
+7,Credit,Transactions & Payments,Home Loan,2,4.2
+2,Forex,Trade Finance,Lost/Stolen Card,3,3.0
+2,Forex,Accounts & Deposits,Current Account,1,58.8
+9,Forex,Mortgage & Secured Loans,Working Capital Loan,2,82.3
+10,Forex,Retail Loans,Debit Card Activation,3,20.6
+7,Forex,Corporate Loans,Car Loan,2,3.0
+10,Forex,Credit Cards,Education Loan,1,20.6
+9,Forex,International Transactions,Letter of Credit,2,65.2
+8,Forex,Currency Exchange,Loan Against Property,1,141.0
+10,General Banking,Cards & Banking Services,Loan Against Property,1,53.6
+10,General Banking,Banking Tech & Digital Services,Current Account,1,3.0
+7,Credit,Mortgage & Secured Loans,Foreign Exchange Rates Inquiry,3,3.0
+9,Credit,Foreign Investments & NRI Banking,SWIFT Transfer,1,3.0
+4,General Banking,KYC & Documentation,Recurring Deposit,2,3.0
+7,General Banking,Transactions & Payments,Foreign Exchange Rates Inquiry,3,3.0
+10,Credit,Credit Cards,Lost/Stolen Card,2,11.2
+6,Forex,KYC & Documentation,Current Account,2,3.0
+10,General Banking,Microfinance & Agricultural Loans,Recurring Deposit,1,3.0
+10,General Banking,Transactions & Payments,Loan Against Property,1,37.5
+9,Credit,Microfinance & Agricultural Loans,Debit Card Activation,1,3.0
+10,Credit,Foreign Investments & NRI Banking,Loan Against Property,3,17.9
+10,Forex,Trade Finance,Savings Account,2,3.0
+10,Forex,Banking Tech & Digital Services,Net Banking Login Issue,2,5.3
+8,Forex,KYC & Documentation,Car Loan,2,3.0
+10,Forex,Mortgage & Secured Loans,Car Loan,3,3.0
+4,General Banking,Mortgage & Secured Loans,Reward Points Inquiry,3,27.5
+6,General Banking,International Transactions,Personal Loan,2,3.0
+8,Credit,International Transactions,Working Capital Loan,1,10.4
+10,Forex,International Transactions,NEFT/RTGS/IMPS Issue,2,3.0
+10,Credit,KYC & Documentation,Letter of Credit,2,3.0
+3,General Banking,Mortgage & Secured Loans,Debit Card Activation,1,3.0
+10,Credit,Mortgage & Secured Loans,Net Banking Login Issue,2,51.5
+3,Forex,Trade Finance,Fixed Deposit,2,4.7
+5,General Banking,Credit Cards,Foreign Exchange Rates Inquiry,1,3.0
+8,Credit,Trade Finance,Loan Against Property,3,20.4
+9,Forex,Accounts & Deposits,Recurring Deposit,1,3.0
+7,Credit,Trade Finance,Cash Currency Exchange,2,9.1
+10,General Banking,International Transactions,NEFT/RTGS/IMPS Issue,1,3.0
+10,Forex,Trade Finance,Education Loan,1,3.0
+10,Forex,Corporate Loans,Loan Against Property,1,78.2
+10,Credit,Currency Exchange,Bank Guarantee,1,3.0
+9,Credit,Mortgage & Secured Loans,Debit Card Activation,1,26.6
+10,General Banking,Transactions & Payments,Reward Points Inquiry,1,3.0
+10,Credit,Retail Loans,Current Account,2,3.0
+9,Forex,Accounts & Deposits,Cash Currency Exchange,3,8.8
+2,Credit,Accounts & Deposits,Savings Account,3,12.4
+10,Forex,Cards & Banking Services,Repatriation of Funds,2,3.0
+6,Forex,KYC & Documentation,Bank Guarantee,3,3.0
+10,Credit,International Transactions,Cash Currency Exchange,2,3.0
+4,Credit,KYC & Documentation,Savings Account,3,12.5
+10,General Banking,Banking Tech & Digital Services,SWIFT Transfer,3,3.0
+10,General Banking,Banking Tech & Digital Services,Education Loan,1,11.9
+9,Credit,Corporate Loans,Home Loan,2,3.0
+4,Forex,Credit Cards,Repatriation of Funds,3,19.5
+10,General Banking,Accounts & Deposits,Savings Account,1,40.1
+9,Credit,Retail Loans,Education Loan,2,15.5
+4,Credit,Mortgage & Secured Loans,Mobile Banking Issue,3,24.7
+10,General Banking,Foreign Investments & NRI Banking,Reward Points Inquiry,1,5.0
+10,General Banking,Foreign Investments & NRI Banking,Car Loan,2,3.0
+10,Credit,Currency Exchange,Personal Loan,1,52.0
+10,Credit,Retail Loans,Credit Limit Increase,3,24.0
+9,General Banking,Transactions & Payments,Repatriation of Funds,1,38.0
+9,Forex,Corporate Loans,Reward Points Inquiry,3,8.0
+7,General Banking,Microfinance & Agricultural Loans,NEFT/RTGS/IMPS Issue,1,3.0
+7,Credit,Foreign Investments & NRI Banking,Working Capital Loan,3,31.3
+10,Credit,KYC & Documentation,Education Loan,1,83.1
+9,General Banking,Microfinance & Agricultural Loans,Personal Loan,1,34.3
+4,Credit,Credit Cards,Letter of Credit,2,3.0
+10,Credit,Credit Cards,Education Loan,2,64.3
+10,Forex,International Transactions,Home Loan,2,3.0
+6,General Banking,Cards & Banking Services,Foreign Exchange Rates Inquiry,3,19.3
+10,General Banking,Foreign Investments & NRI Banking,Education Loan,1,16.7
+10,Forex,Trade Finance,Current Account,2,3.0
+6,General Banking,Trade Finance,Car Loan,2,37.4
+10,Forex,International Transactions,Current Account,2,3.0
+10,General Banking,Accounts & Deposits,Education Loan,1,31.4
+3,Forex,Microfinance & Agricultural Loans,NEFT/RTGS/IMPS Issue,2,3.0
+10,Forex,Trade Finance,Fixed Deposit,1,101.8
+7,Forex,Accounts & Deposits,Bank Guarantee,2,15.9
+10,Credit,Mortgage & Secured Loans,Education Loan,2,3.0
+7,General Banking,Transactions & Payments,Loan Against Property,2,12.4
+10,General Banking,Credit Cards,Bank Guarantee,3,50.2
+9,Forex,Transactions & Payments,Reward Points Inquiry,2,117.5
+10,Credit,Retail Loans,Mobile Banking Issue,1,21.4
+9,Forex,Mortgage & Secured Loans,Reward Points Inquiry,2,24.2
+9,Forex,Transactions & Payments,NEFT/RTGS/IMPS Issue,2,3.0
+1,Forex,Credit Cards,Savings Account,3,9.5
+7,Forex,Accounts & Deposits,NEFT/RTGS/IMPS Issue,2,20.1
+5,Credit,Microfinance & Agricultural Loans,Mobile Banking Issue,3,3.0
+10,Credit,Foreign Investments & NRI Banking,Loan Against Property,1,25.2
+8,Forex,Retail Loans,Fixed Deposit,2,17.2
+10,Credit,Corporate Loans,Car Loan,3,3.0
+8,Forex,Banking Tech & Digital Services,NEFT/RTGS/IMPS Issue,1,3.0
+2,Forex,Trade Finance,Recurring Deposit,3,11.6
+10,Credit,Retail Loans,Mobile Banking Issue,3,50.8
+10,Forex,Credit Cards,SWIFT Transfer,1,8.0
+8,General Banking,Trade Finance,Education Loan,3,3.0
+5,Credit,KYC & Documentation,Cash Currency Exchange,2,57.5
+10,Credit,Microfinance & Agricultural Loans,Loan Against Property,2,3.0
+7,General Banking,Corporate Loans,Car Loan,1,9.4
+7,Credit,Transactions & Payments,Cash Currency Exchange,1,3.0
+10,General Banking,Credit Cards,Foreign Exchange Rates Inquiry,3,3.0
+10,General Banking,Banking Tech & Digital Services,Mobile Banking Issue,3,40.8
+2,General Banking,Microfinance & Agricultural Loans,Credit Limit Increase,1,3.0
+6,Credit,Corporate Loans,Foreign Exchange Rates Inquiry,2,50.5
+8,General Banking,KYC & Documentation,Net Banking Login Issue,1,152.5
+5,General Banking,Banking Tech & Digital Services,Credit Limit Increase,2,3.8
+10,Forex,KYC & Documentation,Letter of Credit,1,26.4
+10,Forex,Currency Exchange,Debit Card Activation,2,30.7
+9,General Banking,KYC & Documentation,Cash Currency Exchange,1,9.9
+7,Credit,Transactions & Payments,Working Capital Loan,1,3.0
+5,General Banking,Corporate Loans,Education Loan,2,3.0
+2,Credit,Foreign Investments & NRI Banking,Cash Currency Exchange,1,3.0
+8,Forex,Mortgage & Secured Loans,Repatriation of Funds,2,48.8
+10,General Banking,Microfinance & Agricultural Loans,Education Loan,1,18.6
+9,Forex,Foreign Investments & NRI Banking,NRE/NRO Account Opening,2,3.0
+10,Credit,Cards & Banking Services,Debit Card Activation,3,3.0
+9,General Banking,Currency Exchange,SWIFT Transfer,1,3.0
+3,Credit,Mortgage & Secured Loans,Reward Points Inquiry,1,3.0
+7,Credit,International Transactions,Credit Limit Increase,2,3.9
+8,Forex,Transactions & Payments,Foreign Exchange Rates Inquiry,2,57.9
+7,Forex,Credit Cards,Cash Currency Exchange,1,3.0
+6,Credit,Retail Loans,Foreign Exchange Rates Inquiry,3,3.0
+7,Forex,Foreign Investments & NRI Banking,Mobile Banking Issue,2,13.9
+3,Credit,Cards & Banking Services,Mobile Banking Issue,3,3.0
+4,General Banking,Foreign Investments & NRI Banking,Car Loan,1,94.5
+8,Credit,Corporate Loans,Current Account,3,3.0
+7,Credit,Mortgage & Secured Loans,Foreign Exchange Rates Inquiry,1,35.7
+10,Forex,International Transactions,Home Loan,1,42.0
+2,Forex,International Transactions,Fixed Deposit,2,7.9
+10,General Banking,Microfinance & Agricultural Loans,Foreign Exchange Rates Inquiry,2,28.5
+10,Credit,KYC & Documentation,Mobile Banking Issue,1,59.6
+5,Forex,Foreign Investments & NRI Banking,Education Loan,1,7.9
+7,Forex,Foreign Investments & NRI Banking,Loan Against Property,1,7.7
+8,Credit,Retail Loans,Cash Currency Exchange,2,147.6
+3,Credit,Corporate Loans,SWIFT Transfer,2,19.3
+10,Forex,Trade Finance,Debit Card Activation,3,3.0
+7,General Banking,Transactions & Payments,Debit Card Activation,1,40.9
+2,Credit,Mortgage & Secured Loans,Foreign Exchange Rates Inquiry,2,30.8
+6,Credit,Currency Exchange,Fixed Deposit,1,3.3
+4,Forex,Corporate Loans,Current Account,2,127.1
+5,General Banking,Cards & Banking Services,SWIFT Transfer,2,22.1
+5,General Banking,Microfinance & Agricultural Loans,Foreign Exchange Rates Inquiry,2,22.4
+8,Forex,Currency Exchange,Home Loan,2,3.0
+10,Forex,Foreign Investments & NRI Banking,Debit Card Activation,1,15.6
+10,Forex,Credit Cards,Savings Account,1,30.5
+5,Credit,Mortgage & Secured Loans,Car Loan,3,3.0
+8,Forex,Credit Cards,Foreign Exchange Rates Inquiry,3,13.2
+10,General Banking,Credit Cards,Loan Against Property,3,8.4
+8,Forex,Banking Tech & Digital Services,Current Account,1,7.8
+9,General Banking,International Transactions,Bank Guarantee,1,3.0
+10,General Banking,Credit Cards,NEFT/RTGS/IMPS Issue,2,11.3
+9,General Banking,International Transactions,Cash Currency Exchange,1,107.0
+3,General Banking,Trade Finance,Working Capital Loan,2,5.7
+5,General Banking,Credit Cards,Home Loan,3,3.0
+10,General Banking,Accounts & Deposits,Car Loan,2,7.0
+9,Credit,International Transactions,Savings Account,3,3.0
+8,General Banking,Retail Loans,Lost/Stolen Card,3,34.7
+10,Forex,KYC & Documentation,Mobile Banking Issue,1,58.4
+10,Credit,Cards & Banking Services,Foreign Exchange Rates Inquiry,2,163.0
+1,Credit,KYC & Documentation,Car Loan,3,7.2
+5,General Banking,Transactions & Payments,Repatriation of Funds,3,64.3
+10,Credit,Credit Cards,Current Account,3,20.5
+10,General Banking,Mortgage & Secured Loans,Recurring Deposit,3,3.1
+10,Forex,Retail Loans,Savings Account,2,27.9
+6,Credit,Banking Tech & Digital Services,Credit Limit Increase,2,138.3
+10,Credit,Transactions & Payments,Debit Card Activation,3,13.5
+10,Credit,KYC & Documentation,Foreign Exchange Rates Inquiry,1,3.0
+10,Credit,Cards & Banking Services,Cash Currency Exchange,3,3.0
+6,Forex,Trade Finance,Personal Loan,3,66.2
+10,Forex,KYC & Documentation,Car Loan,2,10.0
+10,General Banking,Transactions & Payments,Mobile Banking Issue,2,21.7
+8,General Banking,Retail Loans,Net Banking Login Issue,2,72.3
+7,Forex,Foreign Investments & NRI Banking,Net Banking Login Issue,2,3.0
+10,Credit,Banking Tech & Digital Services,Recurring Deposit,2,43.3
+8,General Banking,Retail Loans,Reward Points Inquiry,3,3.0
+5,Credit,Banking Tech & Digital Services,Reward Points Inquiry,3,3.0
+7,Credit,Mortgage & Secured Loans,Letter of Credit,2,3.0
+5,General Banking,Mortgage & Secured Loans,Education Loan,3,24.3
+10,Forex,International Transactions,Mobile Banking Issue,3,48.4
+6,General Banking,Credit Cards,Bank Guarantee,2,28.1
+8,General Banking,Foreign Investments & NRI Banking,Car Loan,1,24.3
+2,General Banking,Corporate Loans,Working Capital Loan,3,31.2
+10,Forex,Banking Tech & Digital Services,Savings Account,2,3.0
+4,General Banking,Cards & Banking Services,Credit Limit Increase,2,3.0
+10,Credit,Currency Exchange,Home Loan,3,30.9
+10,Forex,Banking Tech & Digital Services,NEFT/RTGS/IMPS Issue,3,22.4
+7,General Banking,Accounts & Deposits,Personal Loan,1,3.2
+4,General Banking,International Transactions,Cash Currency Exchange,3,10.2
+1,Credit,Trade Finance,Bank Guarantee,3,5.3
+10,Forex,Retail Loans,Savings Account,1,3.0
+2,General Banking,Mortgage & Secured Loans,Foreign Exchange Rates Inquiry,1,3.0
+4,General Banking,Corporate Loans,Credit Limit Increase,1,45.1
+8,Forex,Retail Loans,Debit Card Activation,3,3.0
+10,Forex,Cards & Banking Services,Loan Against Property,1,40.6
+10,Forex,Banking Tech & Digital Services,Cash Currency Exchange,2,18.6
+3,General Banking,Mortgage & Secured Loans,Personal Loan,1,3.0
+6,Forex,Microfinance & Agricultural Loans,Current Account,2,48.3
+7,Forex,KYC & Documentation,NRE/NRO Account Opening,3,3.0
+10,Credit,International Transactions,Cash Currency Exchange,2,7.1
+7,Forex,Microfinance & Agricultural Loans,Debit Card Activation,2,9.1
+9,General Banking,Microfinance & Agricultural Loans,Net Banking Login Issue,2,17.5
+3,Credit,Foreign Investments & NRI Banking,Car Loan,3,3.0
+10,General Banking,Trade Finance,Home Loan,1,3.0
+7,General Banking,Cards & Banking Services,Personal Loan,2,21.4
+10,Forex,Currency Exchange,Lost/Stolen Card,2,15.3
+10,Credit,Cards & Banking Services,Recurring Deposit,3,3.0
+10,Forex,KYC & Documentation,Home Loan,2,3.0
+8,Credit,Trade Finance,Education Loan,3,40.1
+9,Credit,Trade Finance,NEFT/RTGS/IMPS Issue,1,16.5
+10,General Banking,KYC & Documentation,Credit Limit Increase,1,13.1
+2,Forex,Banking Tech & Digital Services,Debit Card Activation,2,3.0
+10,Credit,Retail Loans,Car Loan,1,62.2
+1,Credit,Microfinance & Agricultural Loans,NRE/NRO Account Opening,2,3.0
+8,Credit,Accounts & Deposits,Recurring Deposit,3,12.9
+10,General Banking,International Transactions,Letter of Credit,3,3.0
+9,General Banking,Cards & Banking Services,Bank Guarantee,1,3.0
+6,Credit,Accounts & Deposits,Personal Loan,3,57.0
+8,General Banking,Mortgage & Secured Loans,Education Loan,3,158.1
+9,Credit,Credit Cards,Bank Guarantee,1,25.7
+10,Forex,Accounts & Deposits,Personal Loan,2,3.0
+9,Credit,Credit Cards,SWIFT Transfer,3,8.2
+10,Forex,Transactions & Payments,Current Account,2,3.0
+10,General Banking,Currency Exchange,Foreign Exchange Rates Inquiry,1,39.8
+7,Credit,Trade Finance,Mobile Banking Issue,3,3.9
+3,Forex,Cards & Banking Services,Credit Limit Increase,2,3.0
+10,Forex,Trade Finance,Personal Loan,3,46.8
+3,Forex,Corporate Loans,Loan Against Property,3,3.0
+10,Forex,Credit Cards,Letter of Credit,3,4.1
+4,Forex,Currency Exchange,Mobile Banking Issue,2,3.0
+8,Forex,Currency Exchange,Working Capital Loan,2,51.4
+10,Credit,Currency Exchange,Savings Account,3,44.7
+10,Credit,Accounts & Deposits,NEFT/RTGS/IMPS Issue,2,3.0
+10,Forex,Transactions & Payments,Reward Points Inquiry,2,37.2
+10,General Banking,Cards & Banking Services,Cash Currency Exchange,1,47.7
+10,General Banking,International Transactions,Home Loan,3,3.0
+9,Credit,Banking Tech & Digital Services,Net Banking Login Issue,3,30.0
+9,General Banking,Credit Cards,SWIFT Transfer,3,15.1
+10,Credit,Transactions & Payments,Working Capital Loan,3,50.1
+3,Forex,Trade Finance,Cash Currency Exchange,2,3.0
+1,Forex,KYC & Documentation,Education Loan,3,23.2
+6,General Banking,Mortgage & Secured Loans,Letter of Credit,3,102.0
+6,Credit,International Transactions,Working Capital Loan,2,5.8
+6,Credit,Retail Loans,Mobile Banking Issue,1,3.0
+1,General Banking,Currency Exchange,Lost/Stolen Card,3,3.0
+2,General Banking,Trade Finance,Cash Currency Exchange,1,44.0
+7,Forex,Transactions & Payments,Cash Currency Exchange,2,12.9
+9,Credit,Mortgage & Secured Loans,Loan Against Property,2,3.0
+5,General Banking,International Transactions,Debit Card Activation,1,3.0
+7,General Banking,Cards & Banking Services,Recurring Deposit,2,32.5
+8,General Banking,Credit Cards,Savings Account,2,35.2
+10,Forex,Transactions & Payments,Letter of Credit,3,4.6
+10,Forex,Mortgage & Secured Loans,Fixed Deposit,3,43.7
+5,Credit,Microfinance & Agricultural Loans,Recurring Deposit,1,7.3
+9,General Banking,International Transactions,Reward Points Inquiry,3,35.7
+7,Forex,Credit Cards,Working Capital Loan,1,5.3
+10,Credit,Currency Exchange,Net Banking Login Issue,1,3.0
+9,Credit,Cards & Banking Services,Savings Account,2,20.0
+8,Forex,Corporate Loans,NEFT/RTGS/IMPS Issue,2,27.7
+7,General Banking,Corporate Loans,Debit Card Activation,1,103.0
+10,Credit,Cards & Banking Services,Mobile Banking Issue,2,35.7
+1,General Banking,Cards & Banking Services,Home Loan,2,14.9
+5,Credit,Microfinance & Agricultural Loans,Letter of Credit,1,3.0
+10,Forex,Retail Loans,Letter of Credit,1,76.0
+3,Credit,Banking Tech & Digital Services,NEFT/RTGS/IMPS Issue,3,26.3
+5,Forex,Foreign Investments & NRI Banking,Net Banking Login Issue,1,54.5
+10,General Banking,Transactions & Payments,Bank Guarantee,1,3.0
+9,General Banking,KYC & Documentation,Letter of Credit,3,11.0
+3,General Banking,Microfinance & Agricultural Loans,Education Loan,2,13.3
+7,General Banking,Cards & Banking Services,Bank Guarantee,3,3.0
+5,Credit,Currency Exchange,Fixed Deposit,3,35.3
+5,General Banking,KYC & Documentation,Mobile Banking Issue,2,26.4
+2,Credit,Cards & Banking Services,Net Banking Login Issue,3,3.0
+10,Credit,Cards & Banking Services,Personal Loan,2,3.0
+10,Credit,Microfinance & Agricultural Loans,Working Capital Loan,3,3.0
+7,General Banking,Mortgage & Secured Loans,NRE/NRO Account Opening,2,41.6
+7,Credit,Accounts & Deposits,Letter of Credit,3,34.2
+10,General Banking,Trade Finance,NEFT/RTGS/IMPS Issue,2,17.8
+7,General Banking,Microfinance & Agricultural Loans,Home Loan,2,3.0
+7,General Banking,International Transactions,Car Loan,2,5.0
+10,Credit,Transactions & Payments,NEFT/RTGS/IMPS Issue,2,3.0
+10,Credit,Mortgage & Secured Loans,Cash Currency Exchange,1,3.0
+10,General Banking,Foreign Investments & NRI Banking,Cash Currency Exchange,2,3.0
+9,Forex,Foreign Investments & NRI Banking,Working Capital Loan,2,3.0
+10,Forex,Corporate Loans,Letter of Credit,3,3.0
+10,General Banking,Retail Loans,Letter of Credit,2,3.0
+1,General Banking,Microfinance & Agricultural Loans,Personal Loan,2,37.0
+7,General Banking,Microfinance & Agricultural Loans,Fixed Deposit,1,54.2
+4,Credit,Retail Loans,Savings Account,2,3.0
+5,General Banking,Mortgage & Secured Loans,Home Loan,2,20.7
+5,Credit,Currency Exchange,Personal Loan,1,3.0
+10,Credit,Currency Exchange,NRE/NRO Account Opening,2,3.0
+9,Credit,International Transactions,Education Loan,3,3.0
+6,Forex,Currency Exchange,Cash Currency Exchange,2,14.4
+10,Forex,Cards & Banking Services,NEFT/RTGS/IMPS Issue,1,3.0
+8,General Banking,Accounts & Deposits,Net Banking Login Issue,2,34.7
+8,Forex,KYC & Documentation,Bank Guarantee,2,3.0
+9,Credit,KYC & Documentation,Home Loan,2,65.2
+10,Forex,Banking Tech & Digital Services,Loan Against Property,2,50.1
+3,Forex,Microfinance & Agricultural Loans,Mobile Banking Issue,1,4.2
+10,Forex,Trade Finance,Credit Limit Increase,1,59.1
+10,Forex,Banking Tech & Digital Services,Recurring Deposit,3,17.1
+7,Credit,Mortgage & Secured Loans,Bank Guarantee,1,3.0
+7,Forex,International Transactions,Home Loan,3,3.0
+6,Forex,Currency Exchange,Current Account,2,3.0
+6,Credit,International Transactions,Loan Against Property,2,27.7
+8,General Banking,Credit Cards,Foreign Exchange Rates Inquiry,3,28.1
+7,General Banking,KYC & Documentation,Loan Against Property,2,3.0
+10,Credit,Foreign Investments & NRI Banking,Letter of Credit,2,18.1
+10,General Banking,Microfinance & Agricultural Loans,Recurring Deposit,3,3.0
+6,Forex,Transactions & Payments,Foreign Exchange Rates Inquiry,1,3.0
+10,General Banking,Mortgage & Secured Loans,Car Loan,3,3.0
+1,General Banking,Mortgage & Secured Loans,Home Loan,2,77.6
+4,Credit,Banking Tech & Digital Services,Savings Account,3,3.0
+9,Credit,Banking Tech & Digital Services,Mobile Banking Issue,2,3.0
+4,General Banking,Trade Finance,Reward Points Inquiry,2,56.6
+10,Credit,Corporate Loans,Working Capital Loan,2,129.4
+7,Forex,International Transactions,Letter of Credit,2,3.0
+10,General Banking,Microfinance & Agricultural Loans,Loan Against Property,3,3.0
+7,Forex,Corporate Loans,SWIFT Transfer,3,3.0
+6,General Banking,Transactions & Payments,Debit Card Activation,2,81.8
+8,Forex,Retail Loans,SWIFT Transfer,2,3.0
+7,General Banking,Retail Loans,Working Capital Loan,1,18.8
+4,Forex,Cards & Banking Services,Car Loan,2,13.8
+1,Credit,Foreign Investments & NRI Banking,Current Account,2,3.0
+7,Credit,Currency Exchange,Cash Currency Exchange,1,71.2
+9,Forex,International Transactions,Current Account,2,9.2
+5,Forex,Credit Cards,Letter of Credit,3,3.0
+5,General Banking,Microfinance & Agricultural Loans,Lost/Stolen Card,2,66.0
+4,Credit,Corporate Loans,Loan Against Property,2,3.0
+10,Forex,Cards & Banking Services,Working Capital Loan,1,3.0
+9,Credit,Trade Finance,NRE/NRO Account Opening,1,3.0
+10,General Banking,Microfinance & Agricultural Loans,Mobile Banking Issue,1,32.5
+10,General Banking,Mortgage & Secured Loans,Debit Card Activation,2,30.4
+5,Credit,Credit Cards,Credit Limit Increase,1,3.0
+3,Credit,Microfinance & Agricultural Loans,Car Loan,1,52.4
+9,General Banking,Transactions & Payments,NEFT/RTGS/IMPS Issue,1,3.0
+7,Forex,Foreign Investments & NRI Banking,Letter of Credit,1,33.4
+10,Credit,Microfinance & Agricultural Loans,Reward Points Inquiry,2,48.0
+9,Credit,Accounts & Deposits,Debit Card Activation,2,23.6
+10,Forex,Accounts & Deposits,Fixed Deposit,3,81.5
+10,Credit,Mortgage & Secured Loans,Fixed Deposit,1,3.0
+10,General Banking,Retail Loans,Personal Loan,3,3.0
+5,General Banking,KYC & Documentation,Mobile Banking Issue,2,3.0
+10,General Banking,Foreign Investments & NRI Banking,Savings Account,3,5.3
+5,General Banking,Microfinance & Agricultural Loans,Letter of Credit,1,121.0
+10,Credit,Mortgage & Secured Loans,Education Loan,3,33.3
+5,Forex,Accounts & Deposits,Mobile Banking Issue,3,3.0
+7,General Banking,Retail Loans,Savings Account,1,14.7
+10,Forex,Currency Exchange,NRE/NRO Account Opening,1,32.0
+7,Credit,International Transactions,Letter of Credit,2,9.9
+10,Forex,Trade Finance,Fixed Deposit,1,9.0
+10,Forex,Accounts & Deposits,Loan Against Property,1,9.1
+5,General Banking,Credit Cards,Net Banking Login Issue,2,3.0
+6,General Banking,Retail Loans,SWIFT Transfer,1,3.0
+10,Forex,Foreign Investments & NRI Banking,SWIFT Transfer,2,41.9
+5,Forex,Corporate Loans,Cash Currency Exchange,3,76.3
+10,General Banking,Corporate Loans,Savings Account,2,39.1
+1,Credit,Banking Tech & Digital Services,Foreign Exchange Rates Inquiry,2,3.0
+4,Credit,Corporate Loans,Car Loan,2,3.0
+10,General Banking,Cards & Banking Services,NRE/NRO Account Opening,3,3.0
+7,Forex,Foreign Investments & NRI Banking,Net Banking Login Issue,2,3.0
+6,General Banking,Cards & Banking Services,Personal Loan,2,113.7
+6,General Banking,Foreign Investments & NRI Banking,Repatriation of Funds,1,13.1
+6,Forex,Credit Cards,Loan Against Property,1,8.8
+6,Credit,Cards & Banking Services,SWIFT Transfer,1,21.8
+10,Forex,Banking Tech & Digital Services,Home Loan,1,8.1
+6,General Banking,Trade Finance,Recurring Deposit,1,25.9
+10,General Banking,Foreign Investments & NRI Banking,Education Loan,1,3.0
+5,Credit,International Transactions,Mobile Banking Issue,3,3.0
+10,Forex,Accounts & Deposits,Recurring Deposit,2,3.0
+1,General Banking,Transactions & Payments,SWIFT Transfer,1,22.5
+10,Credit,Banking Tech & Digital Services,Foreign Exchange Rates Inquiry,2,3.0
+7,Forex,Credit Cards,Debit Card Activation,2,7.6
+10,General Banking,Trade Finance,NRE/NRO Account Opening,1,3.0
+10,Forex,International Transactions,Savings Account,2,64.4
+9,Credit,International Transactions,Cash Currency Exchange,3,3.0
+10,Forex,Transactions & Payments,Working Capital Loan,1,48.2
+9,Credit,Banking Tech & Digital Services,Savings Account,2,4.7
+10,Credit,KYC & Documentation,Letter of Credit,1,3.0
+8,General Banking,Mortgage & Secured Loans,Mobile Banking Issue,3,3.0
+9,General Banking,Transactions & Payments,Reward Points Inquiry,1,14.3
+2,General Banking,Accounts & Deposits,Car Loan,2,3.0
+10,Forex,Mortgage & Secured Loans,Foreign Exchange Rates Inquiry,2,3.0
+10,Forex,Retail Loans,Cash Currency Exchange,3,62.6
+10,Credit,Microfinance & Agricultural Loans,Foreign Exchange Rates Inquiry,2,3.0
+8,Forex,Foreign Investments & NRI Banking,Lost/Stolen Card,2,5.8
+10,Forex,Transactions & Payments,Home Loan,2,92.6
+4,Credit,Credit Cards,Reward Points Inquiry,3,35.2
+3,General Banking,Transactions & Payments,Fixed Deposit,1,103.0
+10,Forex,KYC & Documentation,Working Capital Loan,3,7.6
+10,Credit,Corporate Loans,Car Loan,1,25.9
+1,General Banking,Cards & Banking Services,Current Account,1,46.5
+4,Credit,Mortgage & Secured Loans,Home Loan,2,12.4
+10,Forex,Cards & Banking Services,Fixed Deposit,1,3.0
+10,Forex,Microfinance & Agricultural Loans,Debit Card Activation,3,14.2
+5,General Banking,Banking Tech & Digital Services,Cash Currency Exchange,1,11.0
+8,Forex,International Transactions,Bank Guarantee,1,3.0
+10,General Banking,Trade Finance,Recurring Deposit,3,6.9
+7,Credit,Microfinance & Agricultural Loans,Bank Guarantee,1,26.2
+7,Credit,Microfinance & Agricultural Loans,Reward Points Inquiry,2,3.0
+5,Credit,Trade Finance,Working Capital Loan,1,3.0
+7,Forex,Corporate Loans,Education Loan,1,3.0
+7,Credit,Microfinance & Agricultural Loans,Savings Account,3,82.4
+10,Credit,Credit Cards,Letter of Credit,1,59.7
+10,Forex,Cards & Banking Services,Foreign Exchange Rates Inquiry,2,74.1
+10,Credit,KYC & Documentation,Working Capital Loan,3,27.0
+8,General Banking,Microfinance & Agricultural Loans,Debit Card Activation,1,59.1
+10,General Banking,Foreign Investments & NRI Banking,Recurring Deposit,3,41.1
+8,General Banking,Cards & Banking Services,Net Banking Login Issue,3,11.6
+6,General Banking,Retail Loans,Loan Against Property,2,57.1
+7,Credit,KYC & Documentation,Cash Currency Exchange,3,16.6
+7,Credit,Mortgage & Secured Loans,SWIFT Transfer,3,5.1
+4,Credit,Currency Exchange,Foreign Exchange Rates Inquiry,1,4.5
+10,Credit,International Transactions,Letter of Credit,3,3.0
+6,Forex,Currency Exchange,Car Loan,1,32.0
+6,General Banking,Corporate Loans,Repatriation of Funds,1,43.5
+10,Forex,Trade Finance,Cash Currency Exchange,1,19.8
+6,Forex,Banking Tech & Digital Services,Net Banking Login Issue,2,25.2
+1,Credit,Foreign Investments & NRI Banking,Education Loan,2,3.0
+4,Credit,Foreign Investments & NRI Banking,Car Loan,3,45.8
+8,Forex,Credit Cards,Foreign Exchange Rates Inquiry,1,21.0
+3,Forex,International Transactions,SWIFT Transfer,2,33.0
+6,Forex,Accounts & Deposits,Working Capital Loan,3,3.0
+10,Forex,Retail Loans,Mobile Banking Issue,1,3.0
+8,General Banking,Mortgage & Secured Loans,Debit Card Activation,1,3.0
+6,Credit,Transactions & Payments,Home Loan,1,3.0
+7,Credit,KYC & Documentation,Loan Against Property,3,3.0
+7,Forex,Accounts & Deposits,Personal Loan,3,4.5
+10,Credit,Microfinance & Agricultural Loans,Education Loan,2,3.0
+7,General Banking,International Transactions,Lost/Stolen Card,2,20.8
+7,Credit,Microfinance & Agricultural Loans,Fixed Deposit,3,40.1
+5,Forex,KYC & Documentation,Cash Currency Exchange,2,3.0
+2,Credit,Trade Finance,Net Banking Login Issue,1,3.0
+9,Forex,Cards & Banking Services,Loan Against Property,2,64.6
+9,General Banking,Mortgage & Secured Loans,Bank Guarantee,3,3.0
+10,Forex,Cards & Banking Services,Working Capital Loan,3,10.2
+7,Credit,Transactions & Payments,Repatriation of Funds,2,3.0
+5,Credit,Foreign Investments & NRI Banking,Loan Against Property,2,3.0
+8,Credit,Accounts & Deposits,Recurring Deposit,3,22.3
+10,General Banking,Trade Finance,Working Capital Loan,2,3.0
+8,Credit,Currency Exchange,NRE/NRO Account Opening,3,3.0
+4,Forex,Banking Tech & Digital Services,Repatriation of Funds,2,17.0
+10,General Banking,KYC & Documentation,Debit Card Activation,2,27.5
+10,Credit,Microfinance & Agricultural Loans,Education Loan,2,6.3
+4,General Banking,Trade Finance,Savings Account,3,40.7
+7,Credit,Foreign Investments & NRI Banking,Letter of Credit,2,14.1
+8,Credit,Banking Tech & Digital Services,Foreign Exchange Rates Inquiry,3,3.0
+7,Forex,Banking Tech & Digital Services,Reward Points Inquiry,2,47.1
+10,Credit,Credit Cards,Personal Loan,1,3.0
+9,Credit,Microfinance & Agricultural Loans,Cash Currency Exchange,3,13.5
+2,General Banking,Retail Loans,Letter of Credit,2,38.8
+5,General Banking,Banking Tech & Digital Services,Education Loan,1,3.0
+10,Forex,Retail Loans,Lost/Stolen Card,2,4.2
+10,Forex,Corporate Loans,Foreign Exchange Rates Inquiry,2,62.4
+9,Forex,KYC & Documentation,NRE/NRO Account Opening,3,7.9
+10,Credit,Cards & Banking Services,Foreign Exchange Rates Inquiry,1,81.7
+4,Forex,Cards & Banking Services,Foreign Exchange Rates Inquiry,2,3.0
+2,Credit,Transactions & Payments,Cash Currency Exchange,3,3.0
+10,General Banking,Banking Tech & Digital Services,Car Loan,1,12.1
+2,General Banking,Cards & Banking Services,Letter of Credit,3,59.3
+10,Credit,Retail Loans,NEFT/RTGS/IMPS Issue,3,7.5
+10,Forex,International Transactions,Repatriation of Funds,2,3.0
+9,Forex,Trade Finance,Lost/Stolen Card,3,3.0
+10,Forex,Microfinance & Agricultural Loans,Repatriation of Funds,1,56.1
+9,Forex,Currency Exchange,Savings Account,2,3.0
+10,Credit,Banking Tech & Digital Services,Loan Against Property,2,3.0
+10,Credit,Retail Loans,Working Capital Loan,3,3.0
+10,Credit,Foreign Investments & NRI Banking,Net Banking Login Issue,3,3.0
+8,General Banking,Trade Finance,Repatriation of Funds,1,3.0
+10,General Banking,Microfinance & Agricultural Loans,Cash Currency Exchange,3,3.0
+10,Credit,Accounts & Deposits,Loan Against Property,1,3.0
+10,Forex,KYC & Documentation,Foreign Exchange Rates Inquiry,1,3.0
+2,Forex,Banking Tech & Digital Services,Recurring Deposit,2,3.0
+10,Forex,Mortgage & Secured Loans,Foreign Exchange Rates Inquiry,1,4.1
+8,General Banking,Currency Exchange,Education Loan,1,3.0
+10,Credit,Foreign Investments & NRI Banking,Car Loan,3,3.0
+10,Forex,Mortgage & Secured Loans,NRE/NRO Account Opening,2,10.5
+4,Forex,Currency Exchange,Fixed Deposit,3,74.1
+10,General Banking,Corporate Loans,NRE/NRO Account Opening,3,3.0
+10,Credit,Mortgage & Secured Loans,Lost/Stolen Card,3,3.0
+7,General Banking,Credit Cards,Net Banking Login Issue,3,9.2
+10,General Banking,Trade Finance,Lost/Stolen Card,3,49.5
+5,Credit,Trade Finance,Personal Loan,1,25.2
+10,Credit,Cards & Banking Services,Loan Against Property,1,19.2
+6,General Banking,Microfinance & Agricultural Loans,Fixed Deposit,3,8.5
+8,Credit,Banking Tech & Digital Services,Personal Loan,3,57.9
+8,General Banking,Transactions & Payments,NRE/NRO Account Opening,2,67.8
+10,Credit,Credit Cards,Foreign Exchange Rates Inquiry,3,3.0
+10,General Banking,Mortgage & Secured Loans,Mobile Banking Issue,1,94.3
+6,General Banking,Mortgage & Secured Loans,Education Loan,2,3.0
+10,Forex,Accounts & Deposits,Lost/Stolen Card,2,3.0
+6,General Banking,Mortgage & Secured Loans,Fixed Deposit,2,67.0
+6,Credit,Accounts & Deposits,Personal Loan,1,3.0
+7,Credit,Corporate Loans,Credit Limit Increase,1,30.1
+10,General Banking,International Transactions,Letter of Credit,1,85.5
+9,General Banking,Currency Exchange,Current Account,1,56.9
+9,General Banking,International Transactions,Car Loan,1,3.0
+6,Forex,Retail Loans,Letter of Credit,1,18.8
+6,Forex,Mortgage & Secured Loans,Current Account,1,28.1
+8,Credit,Foreign Investments & NRI Banking,Working Capital Loan,2,3.0
+10,Credit,Accounts & Deposits,Credit Limit Increase,2,101.0
+8,Credit,KYC & Documentation,Recurring Deposit,1,11.6
+10,General Banking,Mortgage & Secured Loans,Education Loan,1,58.1
+5,General Banking,KYC & Documentation,NEFT/RTGS/IMPS Issue,2,3.0
+10,General Banking,Microfinance & Agricultural Loans,Debit Card Activation,1,26.5
+6,General Banking,Microfinance & Agricultural Loans,Cash Currency Exchange,3,9.4
+2,Forex,Foreign Investments & NRI Banking,Savings Account,1,3.0
+10,General Banking,Trade Finance,Reward Points Inquiry,2,32.8
+10,Forex,Cards & Banking Services,Car Loan,3,44.3
+9,Forex,Retail Loans,Bank Guarantee,2,3.0
+10,Forex,International Transactions,Repatriation of Funds,1,3.0
+10,General Banking,Retail Loans,Recurring Deposit,3,11.9
+8,Forex,Corporate Loans,Education Loan,1,3.0
+10,Forex,Foreign Investments & NRI Banking,Car Loan,1,67.6
+10,Credit,Cards & Banking Services,Foreign Exchange Rates Inquiry,1,18.5
+6,Credit,Banking Tech & Digital Services,Recurring Deposit,2,12.8
+9,General Banking,Retail Loans,Bank Guarantee,3,3.0
+6,General Banking,Banking Tech & Digital Services,Credit Limit Increase,1,40.1
+9,General Banking,Retail Loans,Mobile Banking Issue,3,4.4
+10,Forex,Trade Finance,Cash Currency Exchange,3,3.0
+8,General Banking,Currency Exchange,Mobile Banking Issue,1,30.0
+10,General Banking,Cards & Banking Services,Education Loan,2,39.7
+6,Credit,Foreign Investments & NRI Banking,Reward Points Inquiry,3,3.0
+10,Credit,Mortgage & Secured Loans,Personal Loan,3,10.0
+10,Forex,Corporate Loans,NRE/NRO Account Opening,3,14.3
+4,General Banking,KYC & Documentation,Savings Account,2,3.0
+10,Credit,Foreign Investments & NRI Banking,Cash Currency Exchange,1,60.8
+10,Credit,Mortgage & Secured Loans,Car Loan,3,3.0
+9,General Banking,Cards & Banking Services,Foreign Exchange Rates Inquiry,2,81.8
+2,General Banking,Banking Tech & Digital Services,Debit Card Activation,2,23.5
+6,General Banking,Trade Finance,Working Capital Loan,2,20.5
+7,Credit,Foreign Investments & NRI Banking,Credit Limit Increase,1,10.3
+10,Credit,Banking Tech & Digital Services,Repatriation of Funds,2,19.8
+2,Credit,Trade Finance,Recurring Deposit,1,20.5
+8,General Banking,Banking Tech & Digital Services,NRE/NRO Account Opening,2,3.0
+10,General Banking,Microfinance & Agricultural Loans,Recurring Deposit,3,78.7
+9,Credit,Foreign Investments & NRI Banking,Lost/Stolen Card,3,3.0
+6,Forex,Accounts & Deposits,Loan Against Property,2,3.0
+10,General Banking,Foreign Investments & NRI Banking,Lost/Stolen Card,3,46.3
+7,Credit,Trade Finance,Fixed Deposit,2,27.9
+8,Forex,Mortgage & Secured Loans,Cash Currency Exchange,2,11.4
+3,Forex,Trade Finance,Bank Guarantee,1,31.6
+10,General Banking,Credit Cards,Home Loan,3,89.9
+9,General Banking,Corporate Loans,Savings Account,2,3.0
+10,Credit,Corporate Loans,Bank Guarantee,2,8.2
+10,General Banking,Accounts & Deposits,Working Capital Loan,1,3.0
+7,General Banking,Mortgage & Secured Loans,Current Account,1,31.6
+4,Credit,Foreign Investments & NRI Banking,Loan Against Property,3,3.0
+10,General Banking,Corporate Loans,Savings Account,3,4.3
+6,General Banking,International Transactions,Repatriation of Funds,1,44.9
+4,General Banking,International Transactions,NRE/NRO Account Opening,1,3.0
+10,Forex,International Transactions,NRE/NRO Account Opening,2,40.1
+6,Credit,KYC & Documentation,Education Loan,1,3.0
+10,Credit,Cards & Banking Services,Letter of Credit,3,3.0
+2,Credit,Accounts & Deposits,Car Loan,3,19.7
+9,Credit,Corporate Loans,Net Banking Login Issue,1,3.0
+4,Forex,Cards & Banking Services,Cash Currency Exchange,3,3.0
+10,Forex,International Transactions,Letter of Credit,1,6.2
+9,Credit,Foreign Investments & NRI Banking,Personal Loan,1,73.0
+6,General Banking,Transactions & Payments,Cash Currency Exchange,1,43.5
+10,Credit,Banking Tech & Digital Services,Lost/Stolen Card,3,31.6
+10,Credit,International Transactions,Car Loan,2,3.0
+6,Credit,Accounts & Deposits,Education Loan,1,5.1
+10,Forex,Accounts & Deposits,Savings Account,3,17.1
+9,Credit,International Transactions,Loan Against Property,2,26.6
+10,General Banking,International Transactions,Credit Limit Increase,3,39.3
+10,General Banking,Mortgage & Secured Loans,Education Loan,3,3.0
+9,General Banking,Banking Tech & Digital Services,NRE/NRO Account Opening,1,89.3
+10,General Banking,Cards & Banking Services,Personal Loan,2,3.0
+10,General Banking,Credit Cards,Credit Limit Increase,2,3.0
+10,Forex,Accounts & Deposits,Home Loan,2,34.6
+10,Forex,Microfinance & Agricultural Loans,Current Account,2,61.4
+10,Credit,Currency Exchange,Recurring Deposit,3,3.0
+10,Credit,Corporate Loans,Working Capital Loan,2,17.4
+10,Credit,Credit Cards,Working Capital Loan,3,3.0
+10,Forex,Microfinance & Agricultural Loans,Car Loan,3,3.0
+10,General Banking,Accounts & Deposits,NRE/NRO Account Opening,3,3.0
+10,Forex,Corporate Loans,Savings Account,1,94.0
+4,Forex,Transactions & Payments,Working Capital Loan,1,17.6
+8,Forex,Accounts & Deposits,SWIFT Transfer,1,59.3
+2,Credit,Accounts & Deposits,Lost/Stolen Card,2,3.0
+6,General Banking,Retail Loans,Fixed Deposit,1,23.3
+7,Credit,Retail Loans,Repatriation of Funds,3,3.0
+10,Forex,Corporate Loans,Letter of Credit,3,37.3
+10,General Banking,Mortgage & Secured Loans,Net Banking Login Issue,3,3.0
+6,Forex,Cards & Banking Services,Letter of Credit,2,19.7
+6,Forex,Currency Exchange,Fixed Deposit,3,19.0
+6,Credit,Credit Cards,Savings Account,1,4.4
+9,General Banking,Currency Exchange,Net Banking Login Issue,1,40.1
+5,Forex,Trade Finance,Home Loan,1,3.9
+5,Forex,Transactions & Payments,Cash Currency Exchange,2,10.6
+10,General Banking,Foreign Investments & NRI Banking,Working Capital Loan,3,3.0
+1,General Banking,Credit Cards,Loan Against Property,2,3.0
+10,Forex,Banking Tech & Digital Services,Car Loan,2,3.0
+10,General Banking,Credit Cards,Personal Loan,2,53.1
+10,Credit,Microfinance & Agricultural Loans,Current Account,1,25.4
+6,Forex,Retail Loans,Savings Account,1,70.2
+9,General Banking,International Transactions,Credit Limit Increase,1,45.2
+8,Credit,Microfinance & Agricultural Loans,Lost/Stolen Card,2,4.7
+10,General Banking,KYC & Documentation,Cash Currency Exchange,2,36.0
+8,Credit,Microfinance & Agricultural Loans,Savings Account,3,46.9
+10,Forex,Trade Finance,Mobile Banking Issue,1,70.1
+9,General Banking,Foreign Investments & NRI Banking,Home Loan,1,3.0
+10,Forex,Corporate Loans,Repatriation of Funds,1,59.7
+4,Credit,Cards & Banking Services,Lost/Stolen Card,2,26.4
+10,General Banking,Retail Loans,Credit Limit Increase,2,57.9
+10,Credit,Trade Finance,Lost/Stolen Card,1,3.0
+10,General Banking,Mortgage & Secured Loans,Debit Card Activation,3,14.2
+7,General Banking,Banking Tech & Digital Services,Credit Limit Increase,1,3.0
+4,General Banking,International Transactions,Cash Currency Exchange,3,3.0
+10,Credit,Mortgage & Secured Loans,Foreign Exchange Rates Inquiry,3,8.4
+9,Credit,Banking Tech & Digital Services,Personal Loan,3,5.1
+2,General Banking,Corporate Loans,SWIFT Transfer,3,3.0
+1,General Banking,Accounts & Deposits,Lost/Stolen Card,2,3.0
+8,Credit,Mortgage & Secured Loans,Home Loan,3,20.4
+9,General Banking,Corporate Loans,Car Loan,3,3.0
+10,General Banking,Microfinance & Agricultural Loans,Recurring Deposit,2,3.0
+5,General Banking,Mortgage & Secured Loans,Credit Limit Increase,2,7.6
+3,Forex,Retail Loans,Foreign Exchange Rates Inquiry,3,3.0
+10,General Banking,Corporate Loans,Foreign Exchange Rates Inquiry,2,21.9
+10,Forex,Corporate Loans,Loan Against Property,2,30.0
+8,Credit,Cards & Banking Services,Home Loan,3,26.2
+10,Forex,Retail Loans,Bank Guarantee,2,43.8
+5,Credit,Microfinance & Agricultural Loans,Personal Loan,1,35.4
+6,Credit,Retail Loans,Bank Guarantee,2,3.0
+5,Forex,KYC & Documentation,Mobile Banking Issue,3,47.8
+8,Forex,Microfinance & Agricultural Loans,Loan Against Property,3,3.0
+10,Forex,Transactions & Payments,Credit Limit Increase,2,3.0
+10,General Banking,Microfinance & Agricultural Loans,Reward Points Inquiry,3,3.0
+10,Credit,Corporate Loans,Mobile Banking Issue,2,3.0
+8,General Banking,Accounts & Deposits,Letter of Credit,1,11.1
+2,General Banking,Accounts & Deposits,NEFT/RTGS/IMPS Issue,2,39.3
+3,Credit,Currency Exchange,Repatriation of Funds,3,3.0
+2,Forex,Foreign Investments & NRI Banking,Car Loan,3,3.0
+10,General Banking,Microfinance & Agricultural Loans,Education Loan,2,3.0
+1,General Banking,KYC & Documentation,NEFT/RTGS/IMPS Issue,1,42.7
+9,General Banking,Microfinance & Agricultural Loans,Car Loan,1,22.2
+10,General Banking,International Transactions,Mobile Banking Issue,2,52.9
+10,General Banking,Mortgage & Secured Loans,Home Loan,1,37.3
+10,General Banking,Corporate Loans,Recurring Deposit,2,3.0
+8,Credit,Cards & Banking Services,Personal Loan,2,5.1
+10,General Banking,Cards & Banking Services,Loan Against Property,3,25.3
+10,Forex,Banking Tech & Digital Services,Education Loan,3,112.5
+4,Forex,International Transactions,Car Loan,3,22.2
+10,General Banking,Cards & Banking Services,Mobile Banking Issue,1,3.0
+10,Forex,Retail Loans,Recurring Deposit,1,3.0
+9,Forex,Mortgage & Secured Loans,Car Loan,2,3.0
+10,General Banking,Microfinance & Agricultural Loans,Personal Loan,1,97.6
+10,Credit,Banking Tech & Digital Services,Current Account,2,3.0
+10,General Banking,Banking Tech & Digital Services,Repatriation of Funds,1,21.9
+3,Forex,Transactions & Payments,Home Loan,3,39.4
+6,Credit,Trade Finance,Home Loan,2,20.4
+7,Forex,Credit Cards,Reward Points Inquiry,2,3.0
+9,Forex,Credit Cards,Loan Against Property,1,38.7
+2,General Banking,Credit Cards,Recurring Deposit,3,3.0
+7,General Banking,Retail Loans,NEFT/RTGS/IMPS Issue,1,29.9
+8,General Banking,Mortgage & Secured Loans,Net Banking Login Issue,2,29.0
+6,Credit,Corporate Loans,Savings Account,3,6.6
+10,Forex,Corporate Loans,Loan Against Property,3,3.0
+10,General Banking,Foreign Investments & NRI Banking,Savings Account,1,49.9
+5,Credit,KYC & Documentation,Debit Card Activation,2,25.7
+7,Credit,Mortgage & Secured Loans,Recurring Deposit,1,31.0
+10,General Banking,Mortgage & Secured Loans,Car Loan,3,42.0
+7,Forex,Microfinance & Agricultural Loans,Bank Guarantee,3,3.0
+10,Forex,Currency Exchange,Education Loan,2,98.6
+10,Forex,Currency Exchange,Cash Currency Exchange,2,13.4
+6,Credit,Currency Exchange,Loan Against Property,1,6.3
+10,General Banking,Mortgage & Secured Loans,Loan Against Property,3,3.0
+8,Forex,Corporate Loans,Recurring Deposit,1,3.0
+10,Forex,Currency Exchange,Debit Card Activation,1,3.0
+4,General Banking,Foreign Investments & NRI Banking,Credit Limit Increase,1,3.0
+3,Credit,Cards & Banking Services,Net Banking Login Issue,2,32.8
+10,Credit,Corporate Loans,SWIFT Transfer,2,3.0
+10,General Banking,Retail Loans,Foreign Exchange Rates Inquiry,1,41.0
+9,Forex,Mortgage & Secured Loans,Personal Loan,1,21.2
+10,Credit,Foreign Investments & NRI Banking,Current Account,2,3.0
+10,Credit,Cards & Banking Services,Repatriation of Funds,1,5.2
+5,Forex,Banking Tech & Digital Services,Fixed Deposit,2,24.0
+10,Credit,KYC & Documentation,Home Loan,2,38.0
+9,General Banking,KYC & Documentation,Education Loan,3,3.0
+10,General Banking,Retail Loans,Car Loan,3,3.0
+10,Credit,Currency Exchange,Cash Currency Exchange,2,40.3
+8,Credit,Trade Finance,Debit Card Activation,2,28.4
+4,Credit,Banking Tech & Digital Services,Current Account,2,4.1
+4,General Banking,Retail Loans,Car Loan,2,3.0
+7,Credit,Credit Cards,Current Account,1,16.0
+10,Credit,Accounts & Deposits,Bank Guarantee,1,62.0
+10,General Banking,Foreign Investments & NRI Banking,Repatriation of Funds,2,155.6
+9,Credit,Microfinance & Agricultural Loans,Working Capital Loan,3,11.3
+10,Forex,Foreign Investments & NRI Banking,Current Account,2,39.5
+8,Credit,Cards & Banking Services,Net Banking Login Issue,3,40.9
+10,Credit,Transactions & Payments,Repatriation of Funds,1,36.6
+6,Credit,Banking Tech & Digital Services,Cash Currency Exchange,2,3.0
+7,Forex,International Transactions,Repatriation of Funds,2,6.0
+9,Forex,Microfinance & Agricultural Loans,Bank Guarantee,2,15.1
+10,General Banking,KYC & Documentation,Savings Account,1,13.7
+5,Credit,Trade Finance,Current Account,1,46.6
+6,Forex,International Transactions,Debit Card Activation,3,44.4
+3,Credit,Retail Loans,NRE/NRO Account Opening,2,51.7
+8,Forex,Mortgage & Secured Loans,Debit Card Activation,1,72.1
+5,General Banking,Corporate Loans,Working Capital Loan,3,31.6
+10,Credit,Retail Loans,Debit Card Activation,1,3.0
+10,Credit,Cards & Banking Services,Education Loan,1,31.6
+10,Credit,Foreign Investments & NRI Banking,Cash Currency Exchange,3,3.0
+7,Forex,Accounts & Deposits,Car Loan,3,3.0
+10,General Banking,KYC & Documentation,Credit Limit Increase,1,21.3
+6,Credit,Banking Tech & Digital Services,SWIFT Transfer,3,61.3
+4,Forex,Banking Tech & Digital Services,SWIFT Transfer,2,13.4
+5,Forex,Corporate Loans,Recurring Deposit,2,3.0
+8,General Banking,Foreign Investments & NRI Banking,Loan Against Property,1,22.5
+5,Forex,KYC & Documentation,Loan Against Property,2,12.4
+10,Credit,Mortgage & Secured Loans,Net Banking Login Issue,1,35.0
+2,Credit,Mortgage & Secured Loans,Foreign Exchange Rates Inquiry,2,3.0
+10,Forex,Currency Exchange,Fixed Deposit,3,3.0
+7,Forex,Trade Finance,Letter of Credit,2,17.1
+10,Forex,Foreign Investments & NRI Banking,Current Account,1,7.9
+5,General Banking,Retail Loans,Home Loan,1,3.0
+9,General Banking,Corporate Loans,Home Loan,2,3.0
+9,Forex,Foreign Investments & NRI Banking,Repatriation of Funds,3,12.3
+1,General Banking,Microfinance & Agricultural Loans,SWIFT Transfer,1,85.2
+5,Forex,Microfinance & Agricultural Loans,Personal Loan,3,4.8
+10,General Banking,Banking Tech & Digital Services,Working Capital Loan,2,12.1
+4,General Banking,Microfinance & Agricultural Loans,Education Loan,1,22.2
+9,Forex,Transactions & Payments,Working Capital Loan,2,3.0
+8,Credit,Accounts & Deposits,Savings Account,2,34.7
+8,Credit,Banking Tech & Digital Services,Working Capital Loan,2,3.0
+10,Credit,Trade Finance,Education Loan,3,8.9
+7,General Banking,Currency Exchange,Car Loan,2,27.3
+7,Forex,International Transactions,Education Loan,3,37.2
+10,Forex,Microfinance & Agricultural Loans,Cash Currency Exchange,3,3.0
+8,Credit,Transactions & Payments,Letter of Credit,3,3.0
+6,Credit,Transactions & Payments,Loan Against Property,1,9.5
+7,General Banking,Microfinance & Agricultural Loans,Working Capital Loan,2,3.0
+1,Credit,Mortgage & Secured Loans,NEFT/RTGS/IMPS Issue,3,3.0
+2,Credit,Mortgage & Secured Loans,Working Capital Loan,2,3.0
+9,Credit,Retail Loans,NRE/NRO Account Opening,2,3.0
+4,Forex,International Transactions,Debit Card Activation,3,3.0
+1,General Banking,Mortgage & Secured Loans,Cash Currency Exchange,1,10.4
+10,Forex,Foreign Investments & NRI Banking,Net Banking Login Issue,2,3.0
+9,Credit,Banking Tech & Digital Services,NRE/NRO Account Opening,1,3.0
+4,Forex,International Transactions,Personal Loan,1,3.0
+3,Forex,Retail Loans,Personal Loan,2,3.0
+10,Forex,Banking Tech & Digital Services,Savings Account,3,3.0
+10,Forex,Credit Cards,Debit Card Activation,1,7.1
+10,General Banking,Corporate Loans,Foreign Exchange Rates Inquiry,2,25.2
+6,Forex,Banking Tech & Digital Services,Home Loan,2,3.0
+5,Forex,International Transactions,Fixed Deposit,1,29.8
+7,General Banking,International Transactions,Car Loan,2,3.0
+7,Forex,Microfinance & Agricultural Loans,SWIFT Transfer,2,6.0
+5,General Banking,International Transactions,Recurring Deposit,2,8.8
+2,General Banking,Accounts & Deposits,Repatriation of Funds,1,3.0
+9,General Banking,Mortgage & Secured Loans,Reward Points Inquiry,3,3.0
+6,General Banking,KYC & Documentation,Car Loan,3,3.0
+5,General Banking,KYC & Documentation,Car Loan,1,3.0
+10,Credit,Currency Exchange,Letter of Credit,2,17.8
+8,Credit,Microfinance & Agricultural Loans,Letter of Credit,2,3.0
+8,General Banking,Foreign Investments & NRI Banking,Loan Against Property,1,24.2
+10,Credit,KYC & Documentation,Cash Currency Exchange,3,3.0
+9,Credit,Retail Loans,Loan Against Property,2,36.4
+2,Forex,Credit Cards,Repatriation of Funds,2,3.0
+10,Forex,Credit Cards,Personal Loan,1,3.0
+10,General Banking,Trade Finance,Personal Loan,2,20.0
+6,Forex,KYC & Documentation,Working Capital Loan,2,3.0
+10,Credit,Microfinance & Agricultural Loans,Lost/Stolen Card,3,19.2
+10,Forex,Trade Finance,Loan Against Property,3,17.9
+7,Credit,Credit Cards,Working Capital Loan,1,13.5
+5,Forex,International Transactions,Cash Currency Exchange,3,22.0
+10,Forex,Mortgage & Secured Loans,Fixed Deposit,1,3.0
+10,General Banking,Foreign Investments & NRI Banking,Fixed Deposit,1,12.2
+10,Forex,Trade Finance,Education Loan,2,3.0
+10,Forex,Credit Cards,Working Capital Loan,3,27.7
+10,Credit,Cards & Banking Services,Lost/Stolen Card,1,3.0
+3,General Banking,Microfinance & Agricultural Loans,Mobile Banking Issue,1,13.8
+10,General Banking,Banking Tech & Digital Services,NEFT/RTGS/IMPS Issue,3,3.0
+9,General Banking,International Transactions,Fixed Deposit,3,23.6
+4,General Banking,Corporate Loans,Home Loan,3,3.0
+1,Forex,KYC & Documentation,Personal Loan,1,3.4
+8,General Banking,Corporate Loans,Car Loan,2,83.6
+4,Forex,Transactions & Payments,NRE/NRO Account Opening,3,3.0
+10,Forex,Corporate Loans,NRE/NRO Account Opening,3,47.6
+8,General Banking,Accounts & Deposits,Cash Currency Exchange,2,48.0
+10,General Banking,Accounts & Deposits,Reward Points Inquiry,1,29.8
+10,General Banking,Mortgage & Secured Loans,Car Loan,3,3.0
+4,Credit,Currency Exchange,Loan Against Property,2,21.3
+9,Credit,Credit Cards,Personal Loan,2,26.4
+10,General Banking,KYC & Documentation,Savings Account,2,16.8
+6,Forex,KYC & Documentation,Recurring Deposit,1,3.0
+10,General Banking,Transactions & Payments,Foreign Exchange Rates Inquiry,3,3.0
+7,Forex,KYC & Documentation,Loan Against Property,1,58.9
+5,Credit,Mortgage & Secured Loans,Current Account,2,5.2
+10,Credit,Banking Tech & Digital Services,Repatriation of Funds,3,3.0
+10,General Banking,Cards & Banking Services,Lost/Stolen Card,3,15.2
+7,Credit,Corporate Loans,Lost/Stolen Card,2,3.0
+8,Credit,Microfinance & Agricultural Loans,Recurring Deposit,1,6.9
+10,Forex,International Transactions,Education Loan,2,155.1
+10,Credit,Banking Tech & Digital Services,Letter of Credit,1,3.0
+4,General Banking,Corporate Loans,NEFT/RTGS/IMPS Issue,1,3.0
+8,General Banking,Microfinance & Agricultural Loans,Home Loan,3,3.0
+8,General Banking,Mortgage & Secured Loans,Personal Loan,3,29.4
+8,General Banking,Transactions & Payments,Recurring Deposit,1,3.0
+10,Credit,Banking Tech & Digital Services,Cash Currency Exchange,3,25.9
+8,General Banking,Foreign Investments & NRI Banking,Fixed Deposit,1,31.5
+10,Forex,Trade Finance,Fixed Deposit,3,3.0
+1,Forex,Cards & Banking Services,Cash Currency Exchange,2,45.6
+10,Forex,Cards & Banking Services,Fixed Deposit,3,3.0
+10,Forex,Microfinance & Agricultural Loans,Lost/Stolen Card,2,27.3
+6,Credit,Foreign Investments & NRI Banking,Lost/Stolen Card,1,3.0
+7,Credit,Credit Cards,Loan Against Property,1,3.0
+8,Forex,Currency Exchange,Repatriation of Funds,2,6.7
+10,General Banking,Credit Cards,Loan Against Property,2,3.0
+7,General Banking,Banking Tech & Digital Services,Debit Card Activation,3,5.3
+10,Credit,Foreign Investments & NRI Banking,Working Capital Loan,3,82.8
+1,Forex,Cards & Banking Services,Recurring Deposit,2,46.4
+3,General Banking,Currency Exchange,Education Loan,2,3.0
+10,Credit,Retail Loans,Recurring Deposit,2,3.0
+1,General Banking,Banking Tech & Digital Services,SWIFT Transfer,2,3.0
+10,General Banking,Mortgage & Secured Loans,Savings Account,1,57.3
+5,General Banking,Transactions & Payments,Debit Card Activation,2,34.4
+10,General Banking,Corporate Loans,Loan Against Property,1,3.0
+4,General Banking,Microfinance & Agricultural Loans,NRE/NRO Account Opening,1,3.0
+10,Credit,Banking Tech & Digital Services,Current Account,3,32.5
+8,Credit,International Transactions,Cash Currency Exchange,3,110.2
+10,Credit,Banking Tech & Digital Services,Reward Points Inquiry,1,3.0
+9,Credit,Transactions & Payments,Recurring Deposit,3,125.5
+1,Credit,KYC & Documentation,Foreign Exchange Rates Inquiry,2,10.2
+6,General Banking,KYC & Documentation,Loan Against Property,3,63.9
+10,Forex,Transactions & Payments,Repatriation of Funds,2,39.6
+7,Forex,Retail Loans,Education Loan,1,44.2
+2,Credit,KYC & Documentation,Letter of Credit,1,38.3
+10,Forex,Foreign Investments & NRI Banking,Foreign Exchange Rates Inquiry,2,3.0
+1,Credit,International Transactions,Letter of Credit,1,3.0
+10,Forex,Retail Loans,Cash Currency Exchange,1,64.1
+7,Credit,International Transactions,Debit Card Activation,3,3.0
+5,Credit,Trade Finance,Reward Points Inquiry,2,40.0
+7,Forex,Retail Loans,Savings Account,2,3.0
+5,Credit,Corporate Loans,NRE/NRO Account Opening,1,15.8
+5,Forex,Accounts & Deposits,SWIFT Transfer,2,47.3
+3,Credit,International Transactions,NRE/NRO Account Opening,2,6.8
+6,Credit,Corporate Loans,Mobile Banking Issue,1,3.0
+8,General Banking,Foreign Investments & NRI Banking,Credit Limit Increase,1,14.3
+10,Forex,Currency Exchange,NRE/NRO Account Opening,1,3.0
+10,General Banking,Retail Loans,Reward Points Inquiry,3,3.0
+10,Forex,Cards & Banking Services,Current Account,1,40.0
+8,General Banking,Retail Loans,Working Capital Loan,1,3.0
+9,Forex,Retail Loans,Reward Points Inquiry,2,3.0
+10,General Banking,Corporate Loans,Car Loan,1,3.0
+3,General Banking,KYC & Documentation,Loan Against Property,3,26.8
+10,Credit,Cards & Banking Services,SWIFT Transfer,3,17.0
+5,Credit,International Transactions,Recurring Deposit,1,10.3
+10,Credit,Currency Exchange,Personal Loan,3,14.7
+10,Forex,Accounts & Deposits,Net Banking Login Issue,2,46.8
+10,Forex,KYC & Documentation,Repatriation of Funds,3,3.0
+10,Forex,International Transactions,Home Loan,2,3.0
+10,Forex,Cards & Banking Services,Letter of Credit,2,41.9
+7,Credit,KYC & Documentation,Mobile Banking Issue,2,3.0
+10,General Banking,Transactions & Payments,Loan Against Property,1,3.0
+10,General Banking,Corporate Loans,NRE/NRO Account Opening,1,3.0
+10,Credit,Retail Loans,Letter of Credit,1,60.0
+9,Forex,KYC & Documentation,Lost/Stolen Card,2,3.0
+7,Forex,Cards & Banking Services,Debit Card Activation,1,17.3
+10,Forex,Credit Cards,Fixed Deposit,3,84.8
+5,Forex,Corporate Loans,Cash Currency Exchange,1,3.0
+8,Forex,Banking Tech & Digital Services,Foreign Exchange Rates Inquiry,1,3.0
+10,General Banking,Foreign Investments & NRI Banking,Home Loan,3,6.1
+4,Credit,Mortgage & Secured Loans,Reward Points Inquiry,1,3.0
+6,Forex,Retail Loans,Working Capital Loan,2,3.0
+4,Credit,Banking Tech & Digital Services,Working Capital Loan,1,56.3
+6,Credit,Retail Loans,Foreign Exchange Rates Inquiry,2,3.0
+7,General Banking,Banking Tech & Digital Services,Cash Currency Exchange,1,3.0
+7,Credit,KYC & Documentation,Lost/Stolen Card,3,31.2
+10,General Banking,Corporate Loans,Net Banking Login Issue,2,10.0
+10,General Banking,Mortgage & Secured Loans,Working Capital Loan,3,3.0
+10,Credit,Banking Tech & Digital Services,Foreign Exchange Rates Inquiry,2,49.2
+5,Credit,Trade Finance,Debit Card Activation,2,3.0
+7,Credit,Credit Cards,Foreign Exchange Rates Inquiry,1,11.7
+7,General Banking,Retail Loans,SWIFT Transfer,2,3.0
+10,Credit,International Transactions,Working Capital Loan,1,3.0
+10,Forex,Corporate Loans,Mobile Banking Issue,2,3.0
+4,Credit,Corporate Loans,Reward Points Inquiry,2,51.9
+10,Forex,Accounts & Deposits,Home Loan,3,3.0
+7,General Banking,Microfinance & Agricultural Loans,SWIFT Transfer,2,24.9
+10,Credit,Accounts & Deposits,Loan Against Property,3,29.4
+9,General Banking,Mortgage & Secured Loans,Debit Card Activation,1,43.3
+3,Credit,Credit Cards,SWIFT Transfer,2,3.0
+7,Forex,KYC & Documentation,Savings Account,3,3.0
+10,General Banking,Currency Exchange,Repatriation of Funds,1,63.4
+9,General Banking,Foreign Investments & NRI Banking,Loan Against Property,1,39.8
+9,Credit,Retail Loans,Car Loan,2,3.0
+10,General Banking,Microfinance & Agricultural Loans,Working Capital Loan,3,3.0
+5,General Banking,Credit Cards,Car Loan,2,7.5
+10,General Banking,Credit Cards,Working Capital Loan,3,3.0
+4,Forex,Mortgage & Secured Loans,Education Loan,3,18.4
+8,Forex,Cards & Banking Services,Lost/Stolen Card,1,3.0
+10,Credit,Banking Tech & Digital Services,Reward Points Inquiry,2,3.0
+10,General Banking,KYC & Documentation,Education Loan,2,15.8
+10,General Banking,Cards & Banking Services,Credit Limit Increase,1,21.4
+8,General Banking,Credit Cards,Recurring Deposit,1,9.2
+10,Forex,Transactions & Payments,Recurring Deposit,3,11.0
+8,Credit,Accounts & Deposits,Car Loan,1,42.0
+10,Forex,KYC & Documentation,Savings Account,3,43.9
+8,Forex,KYC & Documentation,Bank Guarantee,2,3.0
+7,General Banking,Credit Cards,Debit Card Activation,1,54.6
+9,Credit,Foreign Investments & NRI Banking,Recurring Deposit,1,3.0
+8,Credit,Banking Tech & Digital Services,Debit Card Activation,1,86.9
+7,Credit,Corporate Loans,Current Account,1,22.7
+10,Credit,International Transactions,Net Banking Login Issue,3,58.6
+6,General Banking,International Transactions,Debit Card Activation,1,52.7
+5,Credit,Trade Finance,Fixed Deposit,1,107.7
+10,General Banking,Mortgage & Secured Loans,Foreign Exchange Rates Inquiry,2,3.0
+8,Credit,KYC & Documentation,Bank Guarantee,2,3.0
+8,Credit,Banking Tech & Digital Services,Fixed Deposit,3,34.1
+10,Credit,Credit Cards,Home Loan,1,10.1
+8,Credit,Currency Exchange,Net Banking Login Issue,3,3.0
+6,Credit,Corporate Loans,Current Account,2,3.0
+10,Forex,Transactions & Payments,Cash Currency Exchange,1,16.1
+10,General Banking,Currency Exchange,Fixed Deposit,3,3.0
+10,Forex,Trade Finance,Bank Guarantee,2,31.6
+9,General Banking,Currency Exchange,NRE/NRO Account Opening,2,3.0
+4,Credit,Corporate Loans,Debit Card Activation,2,3.0
+8,Credit,Retail Loans,Car Loan,3,3.8
+1,General Banking,Credit Cards,Personal Loan,2,3.0
+1,Forex,Trade Finance,Recurring Deposit,2,3.0
+10,Forex,Foreign Investments & NRI Banking,SWIFT Transfer,2,3.0
+10,General Banking,Retail Loans,Home Loan,3,3.0
+8,General Banking,KYC & Documentation,Car Loan,2,3.0
+3,Forex,Accounts & Deposits,Current Account,2,3.0
+8,Credit,Retail Loans,Letter of Credit,1,3.0
+10,Forex,Microfinance & Agricultural Loans,Loan Against Property,3,46.6
+9,General Banking,KYC & Documentation,Repatriation of Funds,3,3.0
+4,Forex,Retail Loans,NRE/NRO Account Opening,3,3.4
+10,Forex,Credit Cards,Repatriation of Funds,3,3.0
+10,Forex,KYC & Documentation,Home Loan,2,15.9
+9,General Banking,Transactions & Payments,SWIFT Transfer,3,3.0
+6,Forex,Transactions & Payments,Car Loan,3,12.0
+5,Credit,Mortgage & Secured Loans,NEFT/RTGS/IMPS Issue,2,41.0
+10,Credit,International Transactions,SWIFT Transfer,2,3.0
+9,Forex,Retail Loans,NEFT/RTGS/IMPS Issue,1,11.8
+10,Forex,International Transactions,Credit Limit Increase,1,26.5
+6,Forex,KYC & Documentation,Education Loan,2,3.0
+7,General Banking,Retail Loans,Mobile Banking Issue,2,47.1
+3,Forex,Corporate Loans,Bank Guarantee,3,8.1
+7,Credit,Corporate Loans,Bank Guarantee,2,7.2
+8,Credit,Accounts & Deposits,Lost/Stolen Card,3,30.3
+8,Forex,Corporate Loans,Mobile Banking Issue,2,22.2
+10,Forex,Banking Tech & Digital Services,Net Banking Login Issue,3,20.2
+10,Credit,Foreign Investments & NRI Banking,NRE/NRO Account Opening,2,3.0
+6,Forex,KYC & Documentation,Fixed Deposit,2,3.0
+2,General Banking,Currency Exchange,Savings Account,1,3.0
+1,Credit,Trade Finance,Repatriation of Funds,3,39.1
+3,Credit,International Transactions,NRE/NRO Account Opening,1,21.7
+6,General Banking,Corporate Loans,NEFT/RTGS/IMPS Issue,2,21.9
+10,General Banking,Transactions & Payments,Current Account,3,67.4
+9,General Banking,Currency Exchange,Education Loan,1,3.9
+6,Credit,Corporate Loans,Loan Against Property,2,3.0
+6,Credit,KYC & Documentation,SWIFT Transfer,1,161.4
+4,Credit,Credit Cards,Home Loan,2,16.0
+5,Credit,KYC & Documentation,Current Account,1,3.0
+9,General Banking,Mortgage & Secured Loans,Cash Currency Exchange,1,3.0
+4,Forex,Corporate Loans,Credit Limit Increase,1,156.0
+4,General Banking,KYC & Documentation,Home Loan,2,92.8
+8,General Banking,Banking Tech & Digital Services,Credit Limit Increase,1,3.0
+10,Credit,Microfinance & Agricultural Loans,Education Loan,2,6.2
+10,Forex,Trade Finance,Debit Card Activation,3,3.0
+3,Forex,Mortgage & Secured Loans,Lost/Stolen Card,2,3.0
+9,General Banking,Credit Cards,Education Loan,2,19.7
+10,Credit,Currency Exchange,Working Capital Loan,3,3.0
+5,General Banking,Corporate Loans,Loan Against Property,2,3.0
+1,Forex,KYC & Documentation,Current Account,2,3.0
+9,General Banking,International Transactions,Savings Account,1,41.2
+10,Credit,International Transactions,Savings Account,2,3.0
+10,Forex,Accounts & Deposits,Letter of Credit,2,20.5
+10,Credit,Foreign Investments & NRI Banking,NEFT/RTGS/IMPS Issue,3,3.0
+10,Forex,Transactions & Payments,Education Loan,1,18.1
+9,General Banking,Credit Cards,Personal Loan,3,11.3
+4,Credit,Credit Cards,Foreign Exchange Rates Inquiry,2,3.0
+10,General Banking,Trade Finance,Personal Loan,2,16.3
+9,Forex,Corporate Loans,Working Capital Loan,1,106.2
+10,Forex,Corporate Loans,Working Capital Loan,3,23.1
+10,General Banking,Corporate Loans,Fixed Deposit,1,3.0
+10,Credit,Banking Tech & Digital Services,Car Loan,2,45.2
+7,General Banking,Banking Tech & Digital Services,Reward Points Inquiry,2,3.0
+10,Credit,Transactions & Payments,Personal Loan,2,3.0
+10,General Banking,International Transactions,Car Loan,2,4.4
+10,General Banking,Accounts & Deposits,Personal Loan,2,3.0
+9,General Banking,Cards & Banking Services,Mobile Banking Issue,1,3.0
+8,Credit,Accounts & Deposits,Loan Against Property,2,3.0
+7,Credit,International Transactions,Recurring Deposit,1,88.7
+9,General Banking,Retail Loans,Letter of Credit,1,13.4
+10,Forex,Foreign Investments & NRI Banking,Reward Points Inquiry,3,10.9
+10,Forex,Accounts & Deposits,Recurring Deposit,3,3.0
+10,Credit,Credit Cards,Repatriation of Funds,1,3.0
+10,Credit,International Transactions,NRE/NRO Account Opening,3,3.0
+9,Forex,KYC & Documentation,Reward Points Inquiry,1,28.9
+8,Forex,KYC & Documentation,NEFT/RTGS/IMPS Issue,2,3.0
+10,Forex,Microfinance & Agricultural Loans,Savings Account,1,3.0
+6,General Banking,Retail Loans,Lost/Stolen Card,2,3.0
+10,General Banking,Accounts & Deposits,Lost/Stolen Card,3,7.9
+6,General Banking,Banking Tech & Digital Services,Education Loan,3,3.0
+8,Credit,Trade Finance,Personal Loan,2,3.4
+5,General Banking,Mortgage & Secured Loans,Letter of Credit,3,18.9
+3,Forex,Transactions & Payments,Personal Loan,1,92.3
+3,General Banking,Currency Exchange,Current Account,2,3.0
+4,Credit,Foreign Investments & NRI Banking,Car Loan,3,3.0
+9,Forex,Microfinance & Agricultural Loans,Letter of Credit,2,5.4
+7,Forex,International Transactions,Foreign Exchange Rates Inquiry,2,3.0
+10,Credit,Currency Exchange,Loan Against Property,1,53.9
+4,Forex,International Transactions,Debit Card Activation,1,3.0
+10,General Banking,Transactions & Payments,Foreign Exchange Rates Inquiry,1,16.0
+1,Credit,Corporate Loans,SWIFT Transfer,3,3.0
+5,General Banking,Mortgage & Secured Loans,Fixed Deposit,3,3.0
+6,Forex,Mortgage & Secured Loans,NRE/NRO Account Opening,2,10.6
+6,Forex,Accounts & Deposits,Home Loan,2,3.0
+9,Forex,Currency Exchange,Recurring Deposit,2,44.4
+6,Forex,Foreign Investments & NRI Banking,Mobile Banking Issue,2,40.8
+3,Forex,Transactions & Payments,Loan Against Property,2,3.0
+9,Credit,Currency Exchange,Mobile Banking Issue,1,26.3
+8,General Banking,Transactions & Payments,Personal Loan,3,3.0
+9,Credit,Retail Loans,Car Loan,2,3.0
+5,General Banking,Currency Exchange,Bank Guarantee,1,47.6
+6,General Banking,Trade Finance,Loan Against Property,2,8.7
+6,Forex,Retail Loans,Cash Currency Exchange,3,13.8
+10,Forex,KYC & Documentation,Repatriation of Funds,1,45.7
+10,Forex,Banking Tech & Digital Services,Recurring Deposit,1,3.0
+10,Forex,Accounts & Deposits,Net Banking Login Issue,2,58.5
+10,Forex,International Transactions,SWIFT Transfer,3,16.3
+8,Credit,Mortgage & Secured Loans,SWIFT Transfer,1,11.2
+8,Credit,Currency Exchange,Reward Points Inquiry,2,27.8
+10,Credit,Microfinance & Agricultural Loans,Car Loan,2,61.5
+10,General Banking,Transactions & Payments,Personal Loan,3,3.0
+6,Credit,Retail Loans,Letter of Credit,3,3.0
+10,General Banking,Cards & Banking Services,Working Capital Loan,1,3.0
+1,General Banking,KYC & Documentation,Foreign Exchange Rates Inquiry,1,3.0
+7,Forex,Trade Finance,NEFT/RTGS/IMPS Issue,3,23.8
+7,General Banking,Trade Finance,Foreign Exchange Rates Inquiry,1,54.8
+5,Forex,International Transactions,Car Loan,2,3.0
+10,Forex,Trade Finance,Working Capital Loan,2,3.0
+7,Credit,Accounts & Deposits,Credit Limit Increase,1,23.4
+6,General Banking,Cards & Banking Services,NEFT/RTGS/IMPS Issue,3,61.8
+10,General Banking,KYC & Documentation,Current Account,2,128.2
+10,Forex,Microfinance & Agricultural Loans,Loan Against Property,3,3.0
+7,General Banking,Corporate Loans,Personal Loan,1,3.0
+3,Credit,Retail Loans,Fixed Deposit,2,41.1
+10,General Banking,Mortgage & Secured Loans,SWIFT Transfer,1,35.4
+10,Credit,KYC & Documentation,Credit Limit Increase,2,28.9
+8,Forex,Currency Exchange,Recurring Deposit,2,3.0
+10,General Banking,Foreign Investments & NRI Banking,Car Loan,1,29.1
+7,Forex,Transactions & Payments,Current Account,3,3.0
+4,General Banking,Microfinance & Agricultural Loans,NRE/NRO Account Opening,2,60.9
+10,Forex,Currency Exchange,Letter of Credit,3,54.6
+10,Forex,Microfinance & Agricultural Loans,Debit Card Activation,2,3.0
+7,Forex,Accounts & Deposits,Debit Card Activation,2,3.0
+5,Credit,Foreign Investments & NRI Banking,Fixed Deposit,2,18.6
+10,Forex,Currency Exchange,Savings Account,3,14.0
+10,Credit,Microfinance & Agricultural Loans,Net Banking Login Issue,2,21.7
+7,Forex,International Transactions,Personal Loan,2,25.2
+10,Credit,Accounts & Deposits,Recurring Deposit,3,43.6
+8,Forex,Credit Cards,Education Loan,3,46.7
+10,Forex,Corporate Loans,Bank Guarantee,3,31.8
+8,Forex,Cards & Banking Services,Savings Account,3,6.7
+9,Credit,Retail Loans,SWIFT Transfer,2,40.9
+10,Credit,Corporate Loans,Cash Currency Exchange,3,3.0
+5,Forex,Foreign Investments & NRI Banking,Letter of Credit,1,3.0
+10,Credit,KYC & Documentation,Education Loan,3,16.5
+10,Forex,Credit Cards,SWIFT Transfer,1,47.5
+7,General Banking,Corporate Loans,Reward Points Inquiry,3,7.1
+6,Credit,Cards & Banking Services,Mobile Banking Issue,3,3.0
+10,General Banking,Transactions & Payments,Savings Account,1,38.4
+8,Credit,Microfinance & Agricultural Loans,Letter of Credit,2,3.0
+6,General Banking,Trade Finance,NRE/NRO Account Opening,1,3.0
+8,Forex,Banking Tech & Digital Services,Letter of Credit,1,17.0
+10,Credit,Transactions & Payments,Foreign Exchange Rates Inquiry,1,3.0
+9,Forex,Banking Tech & Digital Services,Cash Currency Exchange,1,28.2
+4,Credit,Transactions & Payments,Debit Card Activation,2,3.0
+10,Credit,Foreign Investments & NRI Banking,Repatriation of Funds,3,3.0
+10,Credit,Transactions & Payments,Current Account,1,3.0
+10,Credit,Trade Finance,Reward Points Inquiry,3,3.0
+8,Forex,Transactions & Payments,Working Capital Loan,3,47.2
+2,Credit,Currency Exchange,Reward Points Inquiry,3,31.8
+4,General Banking,Cards & Banking Services,Reward Points Inquiry,1,18.7
+1,Forex,Corporate Loans,Education Loan,3,3.0
+7,General Banking,Corporate Loans,Foreign Exchange Rates Inquiry,3,19.5
+6,Credit,Microfinance & Agricultural Loans,Savings Account,3,3.0
+6,Forex,Corporate Loans,NRE/NRO Account Opening,3,22.0
+5,Forex,Accounts & Deposits,Bank Guarantee,2,3.0
+6,Forex,Foreign Investments & NRI Banking,Home Loan,1,3.0
+10,Forex,Corporate Loans,Car Loan,2,3.0
+10,General Banking,Retail Loans,Cash Currency Exchange,2,3.0
+2,Forex,Credit Cards,Personal Loan,1,3.0
+10,Credit,Transactions & Payments,Mobile Banking Issue,3,54.7
+8,Forex,Credit Cards,SWIFT Transfer,2,3.0
+7,General Banking,Banking Tech & Digital Services,Mobile Banking Issue,3,13.4
+4,General Banking,Microfinance & Agricultural Loans,SWIFT Transfer,1,3.0
+10,Forex,International Transactions,Fixed Deposit,2,56.4
+10,Credit,Transactions & Payments,Working Capital Loan,1,26.1
+5,Forex,Trade Finance,Working Capital Loan,2,11.7
+8,Credit,Corporate Loans,Credit Limit Increase,2,7.1
+5,Forex,International Transactions,Home Loan,1,10.2
+10,Forex,Accounts & Deposits,Recurring Deposit,1,168.0
+7,Forex,Banking Tech & Digital Services,Car Loan,3,3.0
+9,Forex,Mortgage & Secured Loans,Working Capital Loan,3,3.0
+7,Forex,Cards & Banking Services,Reward Points Inquiry,2,11.0
+10,General Banking,Cards & Banking Services,SWIFT Transfer,1,3.0
+10,Forex,Banking Tech & Digital Services,SWIFT Transfer,2,3.0
+7,General Banking,Retail Loans,NRE/NRO Account Opening,1,35.8
+4,General Banking,Corporate Loans,SWIFT Transfer,3,3.0
+7,Forex,KYC & Documentation,Recurring Deposit,2,3.0
+4,General Banking,Mortgage & Secured Loans,Personal Loan,1,36.8
+10,Credit,Transactions & Payments,Fixed Deposit,1,3.0
+4,Forex,Credit Cards,Cash Currency Exchange,3,3.0
+9,Forex,Credit Cards,Cash Currency Exchange,3,22.6
+10,Forex,Retail Loans,Cash Currency Exchange,1,59.6
+9,Forex,Accounts & Deposits,Letter of Credit,2,51.0
+10,Credit,Banking Tech & Digital Services,Home Loan,2,31.5
+10,Credit,Cards & Banking Services,Repatriation of Funds,1,3.0
+10,Credit,Retail Loans,Fixed Deposit,2,3.0
+3,Credit,Corporate Loans,Mobile Banking Issue,2,4.6
+7,Forex,Cards & Banking Services,Recurring Deposit,3,21.3
+10,General Banking,Banking Tech & Digital Services,Education Loan,1,7.4
+1,General Banking,Accounts & Deposits,Foreign Exchange Rates Inquiry,1,3.0
+7,Forex,Microfinance & Agricultural Loans,Fixed Deposit,3,3.0
+10,Credit,Microfinance & Agricultural Loans,Fixed Deposit,1,6.4
+10,Forex,KYC & Documentation,Car Loan,2,132.7
+9,Credit,Banking Tech & Digital Services,Letter of Credit,1,19.9
+10,Forex,Microfinance & Agricultural Loans,Credit Limit Increase,3,12.9
+5,General Banking,International Transactions,Current Account,3,3.0
+10,Credit,Trade Finance,Working Capital Loan,3,3.0
+7,General Banking,Trade Finance,Working Capital Loan,3,39.7
+6,General Banking,Credit Cards,Foreign Exchange Rates Inquiry,2,60.6
+10,General Banking,Accounts & Deposits,Credit Limit Increase,1,3.0
+4,General Banking,Trade Finance,Education Loan,1,3.0
+10,Credit,Foreign Investments & NRI Banking,Personal Loan,1,3.0
+2,Forex,Corporate Loans,NRE/NRO Account Opening,3,3.0
+10,Credit,International Transactions,Letter of Credit,3,3.0
+10,Credit,Currency Exchange,Loan Against Property,1,3.0
+10,General Banking,Mortgage & Secured Loans,Education Loan,1,100.1
+10,Credit,Foreign Investments & NRI Banking,Car Loan,2,29.6
+9,Credit,Mortgage & Secured Loans,NEFT/RTGS/IMPS Issue,2,32.8
+1,Credit,Banking Tech & Digital Services,Education Loan,2,3.0
+10,General Banking,Mortgage & Secured Loans,Reward Points Inquiry,1,14.7
+10,Credit,Foreign Investments & NRI Banking,Current Account,1,3.0
+10,General Banking,Accounts & Deposits,Lost/Stolen Card,1,42.8
+10,Forex,Transactions & Payments,Foreign Exchange Rates Inquiry,1,3.0
+10,General Banking,KYC & Documentation,Education Loan,1,3.0
+10,Credit,Retail Loans,Current Account,2,45.1
+9,Credit,Cards & Banking Services,Recurring Deposit,2,3.0
+10,General Banking,Retail Loans,Fixed Deposit,2,66.3
+8,Forex,Banking Tech & Digital Services,Lost/Stolen Card,3,51.4
+10,Credit,Trade Finance,Credit Limit Increase,2,3.0
+8,Credit,Corporate Loans,Mobile Banking Issue,2,3.0
+7,General Banking,Retail Loans,Car Loan,1,6.6
+10,Forex,Currency Exchange,Mobile Banking Issue,3,3.0
+10,Forex,Retail Loans,Home Loan,2,27.8
+10,Credit,Transactions & Payments,Repatriation of Funds,3,11.3
+9,Forex,Currency Exchange,SWIFT Transfer,1,3.0
+10,Forex,Trade Finance,Fixed Deposit,3,86.2
+8,Forex,Credit Cards,Loan Against Property,1,86.5
+5,General Banking,Banking Tech & Digital Services,Reward Points Inquiry,1,3.0
+9,General Banking,Cards & Banking Services,Savings Account,1,3.0
+10,General Banking,Foreign Investments & NRI Banking,Reward Points Inquiry,1,25.6
+7,Forex,Retail Loans,Foreign Exchange Rates Inquiry,1,55.8
+9,General Banking,Accounts & Deposits,Net Banking Login Issue,1,25.6
+8,Credit,Credit Cards,Debit Card Activation,3,3.0
+10,Forex,Credit Cards,Mobile Banking Issue,2,5.4
+8,Credit,Accounts & Deposits,Savings Account,2,24.5
+9,General Banking,International Transactions,Working Capital Loan,3,44.3
+8,Credit,Cards & Banking Services,Loan Against Property,2,3.0
+10,Forex,International Transactions,SWIFT Transfer,1,17.8
+10,General Banking,Cards & Banking Services,Personal Loan,3,11.0
+5,Credit,Banking Tech & Digital Services,Loan Against Property,2,3.0
+7,Credit,Accounts & Deposits,Net Banking Login Issue,2,5.3
+10,Credit,International Transactions,NRE/NRO Account Opening,1,7.7
+5,Credit,Corporate Loans,Education Loan,3,9.6
+8,Credit,Trade Finance,Car Loan,1,3.0
+10,Forex,Trade Finance,Savings Account,1,3.0
+9,Forex,Credit Cards,Net Banking Login Issue,1,8.3
+7,Credit,Retail Loans,Letter of Credit,2,3.0
+8,Forex,KYC & Documentation,Car Loan,1,3.0
+6,Credit,Credit Cards,Net Banking Login Issue,3,3.0
+10,Forex,Retail Loans,Working Capital Loan,1,28.5
+7,Credit,Currency Exchange,Foreign Exchange Rates Inquiry,2,12.3
+10,Forex,KYC & Documentation,NEFT/RTGS/IMPS Issue,1,11.4
+5,General Banking,International Transactions,Car Loan,1,60.7
+7,General Banking,International Transactions,Debit Card Activation,1,38.8
+10,Credit,Microfinance & Agricultural Loans,Working Capital Loan,2,3.0
+5,General Banking,Mortgage & Secured Loans,Loan Against Property,2,13.2
+9,Credit,Banking Tech & Digital Services,Loan Against Property,1,93.7
+10,Forex,Cards & Banking Services,Letter of Credit,3,3.0
+10,Forex,Retail Loans,Car Loan,3,65.1
+5,Credit,Currency Exchange,Education Loan,1,33.0
+6,Credit,International Transactions,Cash Currency Exchange,2,3.0
+5,Forex,Microfinance & Agricultural Loans,Car Loan,3,3.0
+10,Forex,Microfinance & Agricultural Loans,Bank Guarantee,3,45.1
+8,Forex,Credit Cards,Savings Account,1,21.5
+10,Credit,International Transactions,Fixed Deposit,2,3.0
+7,Forex,Retail Loans,Personal Loan,2,3.0
+9,General Banking,Banking Tech & Digital Services,Foreign Exchange Rates Inquiry,1,27.0
+10,Forex,International Transactions,Bank Guarantee,3,36.1
+10,General Banking,Transactions & Payments,NRE/NRO Account Opening,2,48.0
+10,General Banking,Foreign Investments & NRI Banking,Fixed Deposit,3,3.0
+2,Forex,Banking Tech & Digital Services,Fixed Deposit,1,30.0
+10,Credit,International Transactions,Debit Card Activation,2,3.0
+8,General Banking,Banking Tech & Digital Services,Fixed Deposit,1,8.4
+8,General Banking,Credit Cards,Loan Against Property,1,3.0
+10,Forex,Corporate Loans,Education Loan,1,35.6
+9,Forex,Microfinance & Agricultural Loans,Credit Limit Increase,3,23.2
+10,General Banking,Currency Exchange,Foreign Exchange Rates Inquiry,2,56.6
+10,General Banking,Mortgage & Secured Loans,Foreign Exchange Rates Inquiry,3,31.7
+10,General Banking,Mortgage & Secured Loans,Reward Points Inquiry,1,3.0
+10,General Banking,Banking Tech & Digital Services,Bank Guarantee,1,82.9
+7,General Banking,Trade Finance,Credit Limit Increase,2,3.0
+5,General Banking,Banking Tech & Digital Services,Home Loan,2,3.0
+5,General Banking,Cards & Banking Services,SWIFT Transfer,3,33.6
+8,Forex,Foreign Investments & NRI Banking,SWIFT Transfer,3,34.5
+3,Credit,Currency Exchange,NRE/NRO Account Opening,2,49.7
+8,Forex,Foreign Investments & NRI Banking,Savings Account,1,3.0
+10,General Banking,Credit Cards,Debit Card Activation,3,3.0
+6,Credit,Cards & Banking Services,Foreign Exchange Rates Inquiry,2,50.1
+8,Credit,Currency Exchange,Loan Against Property,3,3.0
+3,General Banking,Banking Tech & Digital Services,Home Loan,2,16.2
+7,Credit,Corporate Loans,Recurring Deposit,2,3.0
+10,General Banking,Cards & Banking Services,Lost/Stolen Card,1,118.5
+2,Credit,Currency Exchange,Savings Account,1,3.0
+10,Forex,Microfinance & Agricultural Loans,Working Capital Loan,2,19.0
+10,Credit,Mortgage & Secured Loans,Car Loan,3,3.0
+5,General Banking,Retail Loans,Home Loan,1,55.0
+3,General Banking,Microfinance & Agricultural Loans,Bank Guarantee,3,57.8
+10,Forex,Cards & Banking Services,Education Loan,2,34.0
+9,Credit,Currency Exchange,Debit Card Activation,2,39.1
+8,Credit,Credit Cards,Mobile Banking Issue,2,14.2
+7,General Banking,Microfinance & Agricultural Loans,Recurring Deposit,1,40.0
+10,Forex,Corporate Loans,NRE/NRO Account Opening,1,31.9
+8,Forex,Corporate Loans,Letter of Credit,3,3.0
+5,Forex,KYC & Documentation,Recurring Deposit,3,46.2
+10,General Banking,Currency Exchange,Loan Against Property,1,3.0
+7,Credit,Foreign Investments & NRI Banking,Savings Account,2,15.0
+10,Credit,International Transactions,Education Loan,3,3.0
+8,General Banking,Microfinance & Agricultural Loans,Reward Points Inquiry,1,33.7
+8,Credit,Transactions & Payments,SWIFT Transfer,3,29.7
+7,General Banking,Cards & Banking Services,Education Loan,1,3.0
+6,Credit,Currency Exchange,Personal Loan,1,68.9
+10,General Banking,Corporate Loans,Education Loan,2,3.0
+5,Credit,KYC & Documentation,Letter of Credit,1,11.5
+10,Forex,International Transactions,Home Loan,2,19.3
+10,Credit,Cards & Banking Services,Net Banking Login Issue,2,6.3
+10,General Banking,Transactions & Payments,Home Loan,3,7.6
+3,Forex,Accounts & Deposits,SWIFT Transfer,3,55.0
+8,Forex,International Transactions,NEFT/RTGS/IMPS Issue,2,3.0
+10,Credit,Trade Finance,Education Loan,2,3.0
+10,General Banking,Trade Finance,Foreign Exchange Rates Inquiry,1,9.3
+9,General Banking,Retail Loans,Foreign Exchange Rates Inquiry,2,12.1
+1,Forex,Credit Cards,Lost/Stolen Card,1,16.7
+10,Forex,Mortgage & Secured Loans,Bank Guarantee,1,3.0
+10,Forex,Transactions & Payments,Repatriation of Funds,3,17.8
+7,Credit,Microfinance & Agricultural Loans,Letter of Credit,2,3.0
+8,General Banking,Retail Loans,Education Loan,2,22.1
+10,General Banking,Banking Tech & Digital Services,Car Loan,3,3.0
+8,General Banking,Credit Cards,Lost/Stolen Card,1,3.0
+10,Credit,Cards & Banking Services,Personal Loan,1,7.0
+10,Forex,Corporate Loans,SWIFT Transfer,2,3.0
+10,Forex,Mortgage & Secured Loans,Current Account,3,3.0
+10,Credit,Banking Tech & Digital Services,Home Loan,1,3.0
+9,General Banking,Mortgage & Secured Loans,Home Loan,1,3.0
+6,Credit,Mortgage & Secured Loans,Repatriation of Funds,3,19.0
+3,General Banking,Trade Finance,Mobile Banking Issue,3,24.6
+10,Credit,Microfinance & Agricultural Loans,Working Capital Loan,3,34.5
+7,Forex,Cards & Banking Services,Debit Card Activation,3,11.4
+8,Forex,Corporate Loans,Current Account,1,3.0
+9,General Banking,Currency Exchange,Credit Limit Increase,1,135.4
+10,General Banking,International Transactions,Letter of Credit,3,3.0
+3,General Banking,Mortgage & Secured Loans,Letter of Credit,3,3.0
+9,Credit,Currency Exchange,Letter of Credit,1,55.3
+10,Credit,Mortgage & Secured Loans,Recurring Deposit,2,3.0
+10,Credit,Microfinance & Agricultural Loans,Recurring Deposit,3,41.5
+10,General Banking,Microfinance & Agricultural Loans,Cash Currency Exchange,1,21.8
+8,General Banking,Foreign Investments & NRI Banking,SWIFT Transfer,1,14.8
+6,Credit,Foreign Investments & NRI Banking,Letter of Credit,1,3.0
+8,Forex,Cards & Banking Services,Cash Currency Exchange,1,35.3
+7,Forex,Corporate Loans,Net Banking Login Issue,3,3.0
+10,Credit,Trade Finance,Loan Against Property,3,4.9
+4,Credit,Currency Exchange,Reward Points Inquiry,3,20.2
+10,General Banking,Accounts & Deposits,SWIFT Transfer,2,3.0
+9,General Banking,Retail Loans,Personal Loan,3,3.0
+10,Credit,Retail Loans,Letter of Credit,1,3.0
+10,Credit,Microfinance & Agricultural Loans,Fixed Deposit,2,40.9
+2,General Banking,Foreign Investments & NRI Banking,Personal Loan,2,3.0
+7,Forex,Transactions & Payments,Car Loan,2,3.0
+10,General Banking,KYC & Documentation,Recurring Deposit,1,44.7
+7,General Banking,Microfinance & Agricultural Loans,Reward Points Inquiry,2,3.0
+10,General Banking,Corporate Loans,SWIFT Transfer,2,57.9
+10,Forex,Currency Exchange,Car Loan,2,89.1
+4,Credit,Transactions & Payments,Savings Account,2,3.0
+6,Forex,Accounts & Deposits,Mobile Banking Issue,2,3.0
+10,Credit,Mortgage & Secured Loans,Foreign Exchange Rates Inquiry,3,24.8
+8,Credit,Cards & Banking Services,Loan Against Property,1,12.3
+10,Forex,Corporate Loans,Bank Guarantee,1,29.8
+8,Credit,Credit Cards,Current Account,1,3.0
+6,Forex,Credit Cards,Lost/Stolen Card,1,3.0
+5,Credit,Foreign Investments & NRI Banking,SWIFT Transfer,3,3.0
+10,Credit,Foreign Investments & NRI Banking,Bank Guarantee,3,101.7
+6,Credit,Microfinance & Agricultural Loans,Personal Loan,1,42.4
+10,General Banking,Microfinance & Agricultural Loans,Home Loan,2,6.8
+7,Credit,International Transactions,Letter of Credit,2,3.0
+5,General Banking,Credit Cards,Recurring Deposit,3,55.8
+8,Forex,Credit Cards,Bank Guarantee,2,16.6
+8,General Banking,Foreign Investments & NRI Banking,SWIFT Transfer,1,3.0
+8,General Banking,Banking Tech & Digital Services,SWIFT Transfer,3,99.6
+6,Credit,Credit Cards,Car Loan,2,15.8
+7,Credit,Retail Loans,Car Loan,2,30.5
+9,Forex,Microfinance & Agricultural Loans,Repatriation of Funds,1,29.4
+7,Forex,Microfinance & Agricultural Loans,Letter of Credit,1,81.9
+8,Credit,Foreign Investments & NRI Banking,Net Banking Login Issue,1,3.6
+1,Forex,Cards & Banking Services,SWIFT Transfer,1,3.0
+2,Credit,Retail Loans,Savings Account,2,17.8
+4,General Banking,Foreign Investments & NRI Banking,Recurring Deposit,1,3.0
+9,Credit,Cards & Banking Services,Current Account,2,3.0
+6,General Banking,Retail Loans,Working Capital Loan,1,3.0
+6,Credit,Foreign Investments & NRI Banking,Loan Against Property,3,18.1
+10,Credit,Retail Loans,Savings Account,2,3.0
+3,Forex,Transactions & Payments,Bank Guarantee,2,46.2
+1,Forex,Credit Cards,Working Capital Loan,3,3.0
+10,General Banking,KYC & Documentation,SWIFT Transfer,3,122.3
+10,Credit,Mortgage & Secured Loans,Loan Against Property,1,3.0
+8,General Banking,Banking Tech & Digital Services,Fixed Deposit,2,12.5
+7,General Banking,Currency Exchange,NRE/NRO Account Opening,3,23.8
+6,General Banking,Cards & Banking Services,Loan Against Property,1,47.9
+3,Credit,Mortgage & Secured Loans,Net Banking Login Issue,2,3.0
+10,Forex,Banking Tech & Digital Services,Foreign Exchange Rates Inquiry,3,3.0
+10,Forex,International Transactions,Home Loan,3,3.0
+7,Credit,Retail Loans,Personal Loan,1,3.0
+8,General Banking,Mortgage & Secured Loans,Debit Card Activation,1,8.8
+9,Credit,Currency Exchange,Savings Account,1,3.0
+5,General Banking,Mortgage & Secured Loans,Fixed Deposit,2,8.6
+10,General Banking,Mortgage & Secured Loans,Credit Limit Increase,2,13.1
+6,Forex,Transactions & Payments,Repatriation of Funds,3,29.2
+6,Credit,Corporate Loans,Personal Loan,2,3.0
+10,Credit,Retail Loans,SWIFT Transfer,1,24.1
+9,General Banking,KYC & Documentation,Personal Loan,3,3.0
+6,Forex,Banking Tech & Digital Services,Credit Limit Increase,2,52.6
+8,General Banking,Retail Loans,Fixed Deposit,3,5.7
+10,Forex,Retail Loans,Education Loan,1,3.0
+9,Credit,Corporate Loans,Savings Account,3,29.8
+5,Forex,Cards & Banking Services,Letter of Credit,2,3.0
+7,Forex,Microfinance & Agricultural Loans,Credit Limit Increase,1,79.4
+9,General Banking,Microfinance & Agricultural Loans,NEFT/RTGS/IMPS Issue,2,3.0
+8,General Banking,Microfinance & Agricultural Loans,Home Loan,1,24.2
+10,Credit,Trade Finance,Bank Guarantee,1,3.0
+1,General Banking,Microfinance & Agricultural Loans,Current Account,3,14.0
+10,General Banking,Microfinance & Agricultural Loans,Fixed Deposit,2,6.4
+10,Credit,Corporate Loans,NEFT/RTGS/IMPS Issue,1,3.0
+8,Credit,Corporate Loans,Loan Against Property,2,3.0
+9,Credit,KYC & Documentation,Recurring Deposit,2,50.4
+10,General Banking,Transactions & Payments,NRE/NRO Account Opening,2,108.0
+7,Forex,Retail Loans,Debit Card Activation,3,3.0
+10,Forex,International Transactions,Working Capital Loan,1,3.0
+8,General Banking,Mortgage & Secured Loans,Recurring Deposit,1,63.2
+6,General Banking,Mortgage & Secured Loans,Home Loan,2,3.0
+10,Credit,Trade Finance,NRE/NRO Account Opening,3,51.5
+4,General Banking,Mortgage & Secured Loans,Letter of Credit,3,3.0
+10,Forex,International Transactions,SWIFT Transfer,1,57.0
+9,General Banking,Credit Cards,Personal Loan,1,68.8
+6,General Banking,Banking Tech & Digital Services,Debit Card Activation,3,9.1
+9,Forex,Transactions & Payments,Loan Against Property,1,67.5
+10,General Banking,Foreign Investments & NRI Banking,Recurring Deposit,1,43.8
+8,Credit,Corporate Loans,Fixed Deposit,1,3.0
+5,General Banking,Mortgage & Secured Loans,Home Loan,1,29.5
+4,Credit,Trade Finance,NRE/NRO Account Opening,2,23.4
+6,Forex,Cards & Banking Services,Recurring Deposit,3,14.0
+9,Forex,Currency Exchange,Savings Account,1,43.9
+10,General Banking,Transactions & Payments,NRE/NRO Account Opening,2,109.6
+4,General Banking,Transactions & Payments,Home Loan,3,60.8
+10,Credit,Banking Tech & Digital Services,Lost/Stolen Card,1,3.0
+10,Credit,Accounts & Deposits,Education Loan,1,3.0
+6,Credit,Corporate Loans,Car Loan,3,33.4
+7,Forex,Foreign Investments & NRI Banking,Reward Points Inquiry,2,3.0
+5,Credit,KYC & Documentation,Bank Guarantee,2,3.0
+7,Credit,Mortgage & Secured Loans,Letter of Credit,3,3.0
+10,Forex,Microfinance & Agricultural Loans,Working Capital Loan,3,3.0
+10,Forex,Trade Finance,Fixed Deposit,2,3.0
+6,General Banking,Trade Finance,Education Loan,2,34.4
+1,General Banking,Currency Exchange,Letter of Credit,1,3.0
+9,Credit,Transactions & Payments,Recurring Deposit,2,3.0
+5,Credit,Trade Finance,Net Banking Login Issue,2,3.0
+7,Forex,Credit Cards,Recurring Deposit,1,38.5
+7,Credit,Corporate Loans,Loan Against Property,2,3.0
+10,Credit,Trade Finance,Reward Points Inquiry,1,5.6
+6,General Banking,Cards & Banking Services,Cash Currency Exchange,2,6.0
+7,General Banking,Currency Exchange,Education Loan,3,6.5
+10,General Banking,International Transactions,Letter of Credit,2,3.0
+8,General Banking,Retail Loans,Current Account,3,8.2
+2,General Banking,International Transactions,Repatriation of Funds,3,7.6
+7,Credit,Credit Cards,Credit Limit Increase,3,3.0
+10,Forex,Currency Exchange,Working Capital Loan,1,3.0
+2,Credit,Microfinance & Agricultural Loans,Car Loan,3,3.0
+10,Forex,Currency Exchange,Foreign Exchange Rates Inquiry,3,3.0
+9,Forex,Mortgage & Secured Loans,Letter of Credit,1,3.0
+6,Forex,Retail Loans,Foreign Exchange Rates Inquiry,1,3.0
+10,Forex,Microfinance & Agricultural Loans,Mobile Banking Issue,1,23.5
+8,General Banking,Currency Exchange,Loan Against Property,3,3.0
+10,Forex,Corporate Loans,NEFT/RTGS/IMPS Issue,2,26.5
+3,Forex,International Transactions,Home Loan,1,3.0
+8,Credit,Mortgage & Secured Loans,Letter of Credit,1,14.5
+10,General Banking,KYC & Documentation,Letter of Credit,1,27.3
+10,General Banking,Accounts & Deposits,Home Loan,3,25.4
+5,General Banking,Foreign Investments & NRI Banking,Repatriation of Funds,2,23.8
+10,Credit,Trade Finance,Home Loan,2,3.0
+10,Credit,Corporate Loans,Bank Guarantee,2,3.0
+3,Forex,Foreign Investments & NRI Banking,Cash Currency Exchange,1,56.1
+1,Credit,Accounts & Deposits,Cash Currency Exchange,2,14.5
+8,General Banking,International Transactions,Letter of Credit,2,3.0
+10,Credit,International Transactions,Personal Loan,3,3.0
+7,General Banking,Trade Finance,Reward Points Inquiry,3,8.1
+5,Forex,Accounts & Deposits,NEFT/RTGS/IMPS Issue,1,10.5
+10,Credit,Transactions & Payments,Reward Points Inquiry,3,13.6
+9,Forex,International Transactions,Reward Points Inquiry,2,8.4
+10,General Banking,International Transactions,Car Loan,3,3.0
+2,Credit,Retail Loans,Recurring Deposit,2,26.2
+10,General Banking,Microfinance & Agricultural Loans,SWIFT Transfer,1,29.7
+10,Credit,Retail Loans,Cash Currency Exchange,3,3.0
+7,General Banking,Credit Cards,Personal Loan,1,27.1
+2,Forex,Microfinance & Agricultural Loans,Savings Account,3,3.0
+10,General Banking,Retail Loans,NRE/NRO Account Opening,1,3.0
+6,General Banking,Cards & Banking Services,Current Account,1,55.0
+7,General Banking,Corporate Loans,Personal Loan,1,34.4
+10,Forex,Credit Cards,Cash Currency Exchange,3,3.0
+9,Credit,KYC & Documentation,Working Capital Loan,1,3.0
+4,General Banking,Cards & Banking Services,SWIFT Transfer,1,3.0
+10,Credit,KYC & Documentation,Repatriation of Funds,3,3.0
+10,Forex,Mortgage & Secured Loans,Repatriation of Funds,2,8.8
+4,Forex,Foreign Investments & NRI Banking,Working Capital Loan,3,30.8
+4,Credit,Corporate Loans,SWIFT Transfer,1,27.4
+7,General Banking,Cards & Banking Services,Cash Currency Exchange,1,33.0
+9,Forex,KYC & Documentation,Working Capital Loan,3,3.1
+10,Forex,International Transactions,Recurring Deposit,2,3.0
+5,Credit,International Transactions,Fixed Deposit,3,3.0
+7,Forex,Trade Finance,Debit Card Activation,1,3.0
+10,Forex,KYC & Documentation,Car Loan,3,53.9
+4,Credit,Credit Cards,Repatriation of Funds,2,54.3
+10,General Banking,Mortgage & Secured Loans,Current Account,1,3.0
+10,General Banking,Banking Tech & Digital Services,Reward Points Inquiry,3,41.8
+9,Forex,Currency Exchange,Recurring Deposit,2,3.0
+9,Credit,Transactions & Payments,Home Loan,2,52.7
+10,General Banking,Mortgage & Secured Loans,Letter of Credit,3,14.6
+10,General Banking,Mortgage & Secured Loans,Recurring Deposit,1,3.0
+1,General Banking,Retail Loans,Net Banking Login Issue,3,3.0
+10,Credit,Banking Tech & Digital Services,Education Loan,2,28.2
+8,General Banking,Microfinance & Agricultural Loans,Education Loan,2,3.0
+2,Forex,Trade Finance,Working Capital Loan,1,3.1
+8,General Banking,Banking Tech & Digital Services,Fixed Deposit,2,57.3
+9,Credit,Cards & Banking Services,Letter of Credit,3,3.0
+1,Forex,Banking Tech & Digital Services,Education Loan,2,4.7
+2,General Banking,Cards & Banking Services,Lost/Stolen Card,1,30.5
+10,Credit,Microfinance & Agricultural Loans,NEFT/RTGS/IMPS Issue,1,33.4
+10,Credit,Credit Cards,Fixed Deposit,2,131.2
+6,Forex,Foreign Investments & NRI Banking,Loan Against Property,2,3.0
+10,General Banking,KYC & Documentation,Savings Account,1,3.0
+10,Credit,Corporate Loans,Recurring Deposit,1,3.0
+5,General Banking,Credit Cards,Savings Account,2,3.0
+10,Forex,Retail Loans,Lost/Stolen Card,2,24.1
+6,Forex,Credit Cards,SWIFT Transfer,2,10.5
+6,Forex,International Transactions,NEFT/RTGS/IMPS Issue,2,19.9
+10,General Banking,International Transactions,NEFT/RTGS/IMPS Issue,3,3.0
+8,Credit,Foreign Investments & NRI Banking,Reward Points Inquiry,1,3.0
+8,General Banking,Trade Finance,Car Loan,3,3.0
+6,Credit,Foreign Investments & NRI Banking,Personal Loan,2,40.7
+1,Forex,Banking Tech & Digital Services,Repatriation of Funds,2,48.5
+10,Forex,Retail Loans,Letter of Credit,1,28.2
+10,General Banking,Corporate Loans,Cash Currency Exchange,1,99.5
+10,General Banking,Cards & Banking Services,NRE/NRO Account Opening,1,3.0
+9,General Banking,Currency Exchange,Savings Account,2,3.0
+9,General Banking,Cards & Banking Services,Fixed Deposit,3,8.4
+8,Forex,Corporate Loans,Personal Loan,3,19.6
+9,Forex,Cards & Banking Services,Education Loan,2,30.2
+10,General Banking,Trade Finance,Loan Against Property,1,29.5
